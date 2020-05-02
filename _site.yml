@@ -1,8 +1,7 @@
-name: "my-website"
+name: "daily writing"
 navbar:
-  title: "My Website"
+  title: "Lisa McNulty Daily Notes"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+

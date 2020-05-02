@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588418400478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF1E17A1",
+    "lastKnownWriteTime" : 1588419310,
+    "last_content_update" : 1588419310147,
+    "path" : "~/Projects/lisanotes/writing-20200501.Rmd",
+    "project_path" : "writing-20200501.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

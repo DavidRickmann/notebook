@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1541771869",
+    "hash" : "3594517832",
     "id" : "B2E8A6EF",
-    "lastKnownWriteTime" : 1588416888,
-    "last_content_update" : 1588416888,
+    "lastKnownWriteTime" : 1588420364,
+    "last_content_update" : 1588420364715,
     "path" : "~/Projects/lisanotes/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
