@@ -2,8 +2,7 @@
 title: "Children’s Agnotological Rights in a Pandemic"
 author: "Lisa McNulty"
 date: "2020-05-02"
-output:
-  categories: 
+categories: 
     - "lockdown"
     - "Agnetology"
 ---
