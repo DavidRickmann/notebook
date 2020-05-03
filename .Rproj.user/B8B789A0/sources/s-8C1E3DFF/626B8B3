@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588510794968.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "626B8B3",
+    "lastKnownWriteTime" : 1588510889,
+    "last_content_update" : 1588510889931,
+    "path" : "~/Projects/notes/themes/hugo-tufte/layouts/partials/brand.html",
+    "project_path" : "themes/hugo-tufte/layouts/partials/brand.html",
+    "properties" : {
+        "cursorPosition" : "3,28",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

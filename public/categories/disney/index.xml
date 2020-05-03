@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disney on Lisa&#39;s Notebook</title>
+    <link>/categories/disney/</link>
+    <description>Recent content in Disney on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/disney/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beauty and Identity</title>
+      <link>/post/writing-20200501/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-20200501/</guid>
+      <description>Lockdown has me watching far too much classic Disney with my daughter. This has me thinking a lot about beauty and identity. Predictably, the movies depict a strong connection between ‘beauty’ and ‘goodness’. The leading women are, of course, very beautiful, with that beauty clearly presented as a physical manifestation of their innate goodness. Villains are generally identifiable by their ugliness. Plainness, meanwhile, is dullness; a sign that you aren’t really part of the story at all.</description>
+    </item>
+    
+  </channel>
+</rss>

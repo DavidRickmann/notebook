@@ -1,0 +1,55 @@
+---
+title: "Children’s Agnotological Rights in a Pandemic"
+author: "Lisa McNulty"
+date: "2020-05-02"
+output:
+  tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+
+I’ve published before on children’s epistemic rights. Epistemic rights are rights which pertain to knowledge. These include (not exclusively): our right to know certain things, and our right to be recognised as knowledgeable about things when we are. 
+
+Children and adults are generally given different legal rights. Whilst some radical philosophers, such as John Harris in The Political Status of Children, advocate for emancipation, believing that children should have the exact same legal rights as adults 
+
+{{% marginnote %}} Yes, all of them. That one, too. It’s problematic as hell. {{% /marginnote %}}
+
+, most take something like Joel Feinburg’s position. Feinburg, in The Child’s Right to an Open Future, distinguishes between adult-only rights, universal rights, and children-only rights. Adult-only rights are ‘protected liberties of choice’. These include the right to vote, to drink alcohol, to have sex, and so on. Universal rights are bodily and property rights: the right not to be killed or injured or robbed, and to receive medical treatment. Additionally, there are two kinds of rights which are specific to children.
+
+The first category is protection rights: free access to food, shelter and more generally to protection. This is in recognition of children’s special vulnerability. The second is what Feinburg calls ‘anticipatory autonomy rights’ or ‘rights-in-trust’. The idea here is that whilst the child is not (very) autonomous, they have a right to future autonomy. There are things we can do now to promote that autonomy, and we have a duty to do those things. For example, it’s not appropriate for them to vote, but it is appropriate for them to learn about democracy and the voting system. 
+
+There are some clear applications of Feinberg’s ideas to epistemic rights in particular. Children do have the right to know things, and indeed we spend a great deal of time ensuring that they do, in the sense of providing them with a formal education. However, we also restrict their access to knowledge for any number of legitimate reasons: because the information is not age-appropriate, or simply because it is too complicated and would confuse rather than enlighten them, and should therefore be saved for a later developmental stage. Children also have the right to be acknowledged as knowledgeable about the things they know. They will typically have less knowledge than an adult about most subjects, but educators should be alert to the possibility that this might not be the case (particularly if it is the child’s special interest.) Also the child should be acknowledged as having unique standpoint knowledge: they know what it is like to be them, to be that particular child undergoing the experiences they are currently undergoing, and they know it better than the adults around them do. Acknowledging this is part of the long-term goal to enable children to make sense of their own experiences and how they fit into the wider world. 
+
+Which brings us to now. We are, of course, in the middle of a global pandemic. Children are no longer in school. Parents are no longer at work. Everything is on hold. The impact on our lives is impossible to miss even for the smallest children. So, how much do they have a right to know about the pandemic? How much do they have a right *not* to know? If children have epistemic rights, the right to knowledge, do they also have agnotological rights: the right to ignorance? And if so, how extensive are those rights at the moment?  
+
+{{% marginnote %}} Agnotology is ‘theory of ignorance’. The term was coined in this book: [https://www.amazon.co.uk/Agnotology-Unmaking-Ignorance-Robert-Proctor/dp/0804759014] (https://www.amazon.co.uk/Agnotology-Unmaking-Ignorance-Robert-Proctor/dp/0804759014)
+ {{% /marginnote %}}
+
+
+Since children have the right to special protections due to their vulnerability, it makes sense to include protecting them from certain kinds of information. And certainly parents have an instinct to do this. We are concerned for our children’s mental health already, with the separation from their friends and teachers and the boredom of being stuck at home and (for many) the guilt of trying to work and homeschool at the same time. We don’t want them having nightmares, on top of that. So we are making decisions about their ignorance, day to day. 
+
+Examples might include: 
+
+* Should (young) children know that people are not merely ‘getting sick’ but dying from Covid19? 
+* Should they know if the adults around them are depressed? 
+* Should they know if the adults around them are scared? 
+* Should they be aware that *we* don’t know how long this is going to last? 
+
+So let us frame this case in Feinbergian terms. Children have two special rights: to protection, and to future autonomy. In this case there are two kinds of protection required: physical and psychological. The physical protection consists of ensuring that the children and the adults around them are taking the necessary precautions against the spread of the virus. In order to ensure that young children follow the precautions, it is necessary for them to be aware that if we don’t, then people will get sick. Therefore the children have an epistemic right to that knowledge. Anyone not telling children about this, or worse, telling them that the government is just making a fuss, would be violating that epistemic right. The physical protection does not, however, require the children to know that people are dying. Guides to explaining Covid19 and broadcasts on the subject aimed at the youngest children are leaving this information out, and I expect most parents are following suit. Arguably, this is an agnotological right: the children have a right not to know this, because being shielded from that information would help them cope better psychologically. 
+
+So what about the other examples? To what extent should children know about how the adults around them are feeling? 
+
+Let’s focus on epistemic rights for the moment. I’ve said that aside from the right to know certain things, children have the right to be acknowledged as knowing what they in fact know. This is relevant here because we are not as good as keeping children in ignorance as we imagine. For example, I was very careful not to mention ‘death’ or ‘dying’ in my explanations of Covid19 to my five-year-old. Then when the word ‘die’ appeared on her spelling website she refused to look at the site for the rest of the day. I suspect, but am not certain, that she knows anyway. Does she have an agnotological right, here? Quite possibly, but if so, unfortunately we haven’t managed to live up to it, and many parents are going to find themselves in the same position. Similarly, children pick up on the emotions of the adults around them however hard those adults try to avoid this happening. If their parents are depressed, afraid, and uncertain, children will in fact know something about it, even if they cannot articulate that knowledge. 
+
+I’ve also said that children have the right to be acknowledged as having unique standpoint knowledge: they know what it is like to be them undergoing this experience. Part of our appropriate response to this is simply giving them the time to talk though what they are feeling right now. But I also think that the child’s anticipatory autonomy rights plausibly include the right to make sense of their experience as they look back on it, and to understand how it fits into the broader historical events. A certain degree of openness about what is going on, and what the adults around them feel about what is going on, is required in order to respect this future autonomous understanding. But this is a matter of having enough of a picture of events for it to make sense of it later, rather than having a full picture now, and a full picture now would surely cause unnecessary distress. 
+
+How these principles are applied will vary according to the age of the children and the ways in which lockdown has affected each family. My own instincts at present are: I would rather my daughter didn’t know that people were dying from the disease unless it becomes absolutely necessary for her to know, but if she *does* know, I want her to be able to talk about it. I am OK with her knowing that her parents are sad because we can’t go out and see people, because she is unavoidably sad for the same reasons herself. Acknowledging that this is something that we are experiencing together might actively be good for her. However, I would rather she were protected as far as possible from any prolonged depression either of her parents experience during lockdown. I would have a similar framework for fear as for sadness. As for uncertainty, it seems practical for her to know that we don’t know when the schools are re-starting. The alternative - saying ‘September’ and possibly being wrong - carries the potential for her to end up feeling even more uncertain about things than otherwise. But her parent’s broader, more nebulous uncertainties about how this is going to affect, well, everything? 
+
+It seems plausible to me that she has a right not to know. 
+

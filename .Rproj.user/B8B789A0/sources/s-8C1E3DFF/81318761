@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588509943660.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "81318761",
+    "lastKnownWriteTime" : 1588509966,
+    "last_content_update" : 1588509966729,
+    "path" : "~/Projects/notes/content/post/writing-20200501.Rmd",
+    "project_path" : "content/post/writing-20200501.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,12",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

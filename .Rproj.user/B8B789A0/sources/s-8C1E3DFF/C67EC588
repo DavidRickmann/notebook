@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588510665273.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C67EC588",
+    "lastKnownWriteTime" : 1588511172,
+    "last_content_update" : 1588511172113,
+    "path" : "~/Projects/notes/themes/hugo-tufte/layouts/index.html",
+    "project_path" : "themes/hugo-tufte/layouts/index.html",
+    "properties" : {
+        "cursorPosition" : "5,28",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
