@@ -1,12 +1,18 @@
 ---
-title: "Things that Lisa McNulty Wrote"
+title: "Lisa McNulty's Notebook"
 author: "Lisa McNulty"
 output:
   tufte::tufte_html: default
 ---
 
+# 3rd May 2020
+[Houseboats as Liminal Spaces](writing-20200503.html)
 
+
+# 2nd May 2020
+[Children’s Agnotological Rights in a Pandemic](writing-20200502.html)
+
+
+# 1st May 2020
 [Beauty and Identity](writing-20200501.html)
 
-
-[Children’s Agnotological Rights in a Pandemic](writing-20200502.html)

@@ -1,7 +1,3 @@
 name: "daily writing"
-navbar:
-  title: "Lisa McNulty Daily Notes"
-  left:
-    - text: "Home"
-      href: index.html
+
 
