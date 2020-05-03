@@ -3,15 +3,10 @@ title: "Children’s Agnotological Rights in a Pandemic"
 author: "Lisa McNulty"
 date: "2020-05-02"
 output:
-  tufte::tufte_html: default
+  categories: 
+    - "lockdown"
+    - "Agnetology"
 ---
-
-```{r setup, include=FALSE}
-library(tufte)
-# invalidate cache when the tufte version changes
-knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
-options(htmltools.dir.version = FALSE)
-```
 
 
 I’ve published before on children’s epistemic rights. Epistemic rights are rights which pertain to knowledge. These include (not exclusively): our right to know certain things, and our right to be recognised as knowledgeable about things when we are. 
