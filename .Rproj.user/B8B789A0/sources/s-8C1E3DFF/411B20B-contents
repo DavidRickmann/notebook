@@ -26,11 +26,11 @@
       &nbsp;{{ .ReadingTime }} min read
     {{ end }}
 
-    {{ if .Params.categories }}
+    {{ if .Params.tags }}
       <br>
       <i class="fa fa-tags"> </i>
-      {{ range .Params.categories }}
-        <a  href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+      {{ range .Params.tags }}
+        <a  href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
     {{ end }}
   </span>

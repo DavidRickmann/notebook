@@ -5,37 +5,9 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Agnetology</title>
-      <link>/categories/agnetology/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/agnetology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disney</title>
-      <link>/categories/disney/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/disney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lockdown</title>
-      <link>/categories/lockdown/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/lockdown/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

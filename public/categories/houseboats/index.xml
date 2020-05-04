@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>houseboats on Lisa&#39;s Notebook</title>
+    <link>/categories/houseboats/</link>
+    <description>Recent content in houseboats on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/houseboats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Houseboats as liminal spaces</title>
+      <link>/post/writing-20200503/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-20200503/</guid>
+      <description>I like to joke that houseboats ruin all metaphors. Examples include:
+Are you on board? No, but I’ll be home in a bit.
+Let’s push the boat out! But we’d need to get longer standoffs and it would take all afternoon, can we not?
+Wouldn’t touch you with a six foot barge pole! Well, good, it’s all covered in river goop.
+I’ll show you the ropes!</description>
+    </item>
+    
+  </channel>
+</rss>

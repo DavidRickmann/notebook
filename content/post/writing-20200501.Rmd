@@ -2,10 +2,12 @@
 title: "Beauty and Identity"
 author: "Lisa McNulty"
 date: "2020-05-01"
-categories: 
+series:
+    - "daily writing"
+tags: 
     - "lockdown"
     - "Disney"
-    - "Agnetology"
+    - "agnetology"
 ---
 
 Lockdown has me watching far too much classic Disney with my daughter. This has me thinking a lot about beauty and identity. Predictably, the movies depict a strong connection between ‘beauty’ and ‘goodness’. The leading women are, of course, very beautiful, with that beauty clearly presented as a physical manifestation of their innate goodness. Villains are generally identifiable by their ugliness. Plainness, meanwhile, is dullness; a sign that you aren’t really part of the story at all. 

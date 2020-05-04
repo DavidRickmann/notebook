@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/series/daily-writing/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/houseboats/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/writing-20200503/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +28,32 @@
   </url>
   
   <url>
+    <loc>/series/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agnetology/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/writing-20200502/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lockdown/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pedagogy/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,15 +63,16 @@
   </url>
   
   <url>
+    <loc>/tags/disney/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
     <loc>/groups/</loc>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
