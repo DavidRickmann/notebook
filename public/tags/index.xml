@@ -5,24 +5,15 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>houseboats</title>
-      <link>/tags/houseboats/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/houseboats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>agnetology</title>
       <link>/tags/agnetology/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/agnetology/</guid>
       <description></description>
@@ -31,7 +22,7 @@
     <item>
       <title>lockdown</title>
       <link>/tags/lockdown/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/lockdown/</guid>
       <description></description>
@@ -40,9 +31,18 @@
     <item>
       <title>pedagogy</title>
       <link>/tags/pedagogy/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/pedagogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>houseboats</title>
+      <link>/tags/houseboats/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/houseboats/</guid>
       <description></description>
     </item>
     
