@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vampirina on Lisa&#39;s Notebook</title>
@@ -6,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/vampirina/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/vampirina/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -15,121 +16,8 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/writing-20200504/</guid>
-      <description>
-
-
-&lt;p&gt;This is my fourth daily writing exercise and I’m getting nervous. Here’s why:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;I didn’t wake up with an idea of what to write here.&lt;/li&gt;
-&lt;li&gt;I’m doing this on borrowed time whilst my daughter watches Disney cartoons with headphones two metres away from me. I am uncertain how many hugs and snacks will be required before this is over, and whether I will get better or worse at this juggling act.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-0&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-0&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt;&lt;em&gt;Interruptions included:&lt;/em&gt;&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-1&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-1&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • Me remembering that I hadn’t offered my daughter the second piece of toast I made for her. She doesn’t want it. Nor do I. Some birds can have it later.&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-2&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-2&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • Her interrupting me to tell me that she ‘wanted it to be the red one!’ A cartoon character had selected an item. Apparently, it was in fact the red one. So that’s good.&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-3&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-3&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy, can I have an ice lolly?’ It’s 7am. Ugh, fine, I’ll get you the one that’s just frozen orange juice and we’ll pretend that it’s part of a balanced breakfast.&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-4&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-4&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy I just watched Secret Spies!… detailed explanation of the plotline’ &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-5&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-5&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy, did you know I can come over to you with my eyes closed? And I can move my ice lolly with my eyes closed. And my lips are so strong I can bite my ice lolly with my lips, look’&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-6&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-6&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • 𝅘𝅥𝅮 sings the theme tune 𝅘𝅥𝅮 &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-7&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-7&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • 𝅘𝅥 sings a different song 𝅘𝅥 &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-8&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-8&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy I don’t feel good’ (Conversation eventually translated this to ‘I am cold’; I got her a blanket) &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-9&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-9&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘I love you’ I love you, too.&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-10&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-10&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • My armpit hurts… My bones are itchy (found and applied cream, to arms rather than bones, though) &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-11&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-11&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘I love you’ I love you, too. &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-12&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-12&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘My arms feel much better! I just need to massage it for a bit..’ 𝅘𝅥 ‘Rubby rubby ruuuuub’ 𝅘𝅥 &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-13&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-13&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Love you, Mamama!’ 𝅘𝅥(sings random syllables) 𝅘𝅥 ‘I love you too. Would you mind not singing? I’m trying to write.’ &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-14&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-14&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Can I sing the songs, Mummy?’ ‘Well the trouble is I can’t concentrate on writing when you’re singing, darling’. ‘I could sing in my head?’ ‘Thank you.’&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-15&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-15&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘I don’t feel well, Mummy.’ &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-16&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-16&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy, I want to watch Vampirina’&lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-17&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-17&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; • ‘Mummy, she winked at me! Mummy, she winked at me! Vampirina!’ 𝅘𝅥 &lt;em&gt;sings the theme song&lt;/em&gt; 𝅘𝅥 &lt;/span&gt;
-
-&lt;label for=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-18&#34; class=&#34;margin-toggle&#34;&gt;&amp;#8853;&lt;/label&gt;
-&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-35d1419b80928796fc0b5e90fa195999-18&#34; class=&#34;margin-toggle&#34;/&gt;
-&lt;span class=&#34;marginnote&#34;&gt; &lt;em&gt;Look, you get the idea.&lt;/em&gt; &lt;/span&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;I still think my first entry was the best one, and that’s uncomfortable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In short, it is starting to turn from a fresh new idea into something that I am expecting myself to do consistently. I suck at consistency. Everyone to a greater or lesser degree sucks at consistency, but I am currently seeking out a diagnosis for ADHD due to the extent to which I suck at consistency.
-Therefore, today’s entry will be a short diatribe about how consistency itself sucks and is quite probably immoral.
-This is partly due to my own experiences of routine. The general experience of the world seems to be that creating a habit, or having a routine, makes difficult things easier to do. This is not my experience. Instead, I tend to find that now I have &lt;em&gt;two&lt;/em&gt; jobs to do: the thing, and ensuring that I do the thing consistently. The particular needs that arise from living in lockdown have made consistency more important for external reasons, perhaps, but I am unconvinced that it helps with doing the thing.
-Another more specific example is my experience teaching ethics. Ethics as it is usually taught to undergraduate philosophy students involves presenting ethical systems, most commonly Kantian deontology and utilitarianism, and then using particular ethical dilemmas to illustrate how the different systems would respond to those dilemmas. So for example, suppose you had a prisoner and torturing that prisoner would lead to information about where a bomb has been planted which is about to kill hundreds of people. You have to decide whether to torture that prisoner. The version I was given in my first year had the prisoner as the innocent young sister of the bomber, who hadn’t planted the bomb but did know it’s location. The deontologist says no torture, the consequentialist says yes, torture, the students decide that they are deontologists. The following week they learn that Kant thought we shouldn’t lie to a murderer who asks where one of our friends is hiding, and decide that they are consequentialists. Alternate rugs are pulled out from under them until they are in a very good position to write an essay about the weaknesses of both approaches and also to consider formal ethics total bullshit which they never want to look at ever again.
-(Virtue ethics, which focuses on moral character development rather than either actions or consequences, is popular with feminists and educationalists and usually left out of these syllabi because it doesn’t really fit into the dynamic of ethics as a fight.)
-The central problem, which leads to student disillusionment, is the insufficiently questioned assumption that it is better to be morally consistent: to be a utilitarian or a deontologist, and to make your decisions accordingly. In fact such consistency is vanishingly rare and extremely disturbing when it does crop up. Peter Singer’s moral philosophy is an elegantly consistent system which promotes animal rights, the alleviation of poverty, and infanticide for disabled children.
-The best rebellion I have seen from this approach comes from Thomas Green’s ‘Voices, the Educational Formation of Conscience’. The rebellion is right there in the plural, voices. He doesn’t just mean two. This is not the utilitarian and the deontologist fighting it out. It’s not a rap battle, it’s a choir.
-Green is an educationalist rather than an ethicist in the conventional sense, and so he is interested in the development of conscience in terms of how it relates to competence. He’s interested in how we develop self-appraisal. Here are the kind of ‘voices’ he’s talking about:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Conscience of craft:&lt;/strong&gt; Broadly this is the voice that tells you whether your work meets your own standards. In the case of writing that might be: is this a well crafted sentence? Does this paragraph have a clear structure? Have I referenced the right things? Is it interesting/funny? Is it accurate?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conscience as membership:&lt;/strong&gt; This is the voice which encourages us to reflect on our behaviour in the light of our membership in a community. So in this instance, I am broadly speaking a member of a community of ‘blog-posters’, and blog-posters have certain conventions and reasons for having those conventions. This isn’t quite ‘the judgment of others’ in the ordinary sense. Partly this is because I am myself a member of this group, so it’s as much about my judgment as anyone else’s. More precisely, though, this isn’t the judgment of any particular member of the group, but of a sort of abstract Ideal Member who embodies the best qualities of the group.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conscience of sacrifice:&lt;/strong&gt; This is ‘the voice that stands against the inclinations of self-interest’. So in this context that would perhaps involve recognising and correcting for personal bias (such as the abiding feeling that consistency sucks. Huh. Oh well.)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Voice of memory:&lt;/strong&gt; This involves bringing ‘objects of the past into the present to take their place in forming standards of reflexive judgment’. This might involve recalling promises we have made to ourselves and to others, but might also be a case of recalling, ‘ok, how did this work out for you last time?’&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conscience of imagination:&lt;/strong&gt; This is measuring our current practices, and those of our community, against what our imagination tells us it could be.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sometimes, these voices harmonise. Sometimes they don’t. When they don’t, the voices have no hierarchy. We have to listen to which voice dominates in this situation and why. I’ll focus for the moment on how each of the others relates to the conscience of craft.&lt;/p&gt;
-&lt;p&gt;My conscience of craft…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;… might harmonise with my conscience of membership: my idea of what a good blog post looks like might be in tune with the consensus. Or it might not. If it isn’t, it might be because I am taking an approach which is useful to me but not useful to most other people - in which case, I should prioritize my conscience of craft. On the other hand, I might be inexperienced and missing some information about what works and why, in which case I should prioritize my conscience of membership. Figuring out which will involve paying attention to the broader group.&lt;/li&gt;
-&lt;li&gt;…might harmonize with my conscience of sacrifice: I might conclude that a well-written piece is entirely consistent with ensuring that my piece is balanced and untainted with personal bias. Or, I might find that a piece obviously riddled with personal bias is funnier and better crafted as a result. I have to decide which I care more about, and the answer will depend on the extent of my sphere of influence. (Since this is ‘basically none’, I will generally opt for ‘funny’.)&lt;/li&gt;
-&lt;li&gt;…might harmonise with my voice of memory: I might be keeping my promises, avoiding things which didn’t work before, and continuing with things that did. Or, I might be breaking promises, returning to habits which didn’t work, and dropping ones which did. If so, I have to decide if I’m doing so for legitimate reasons: perhaps the promises were untenable, perhaps circumstances have changed such that methods that previously didn’t work now might, or vice versa.&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;…might harmonise with my conscience of imagination: I might be approaching things in a way consistent with my long term ideals or at least directed towards them. Or, I might not. If not, it could be because I am deliberately setting long term ideals aside for now to concentrate on what is in front of me to ensure that at least it gets done to some degree of competence. Or it might be that I’m going off the rails. I need to be able to tell the difference.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The ‘undergrad in philosophy’ approach to ethics and the ‘just get a routine’ approach to productivity share the idea that success lies in consistency. To be good, to be successful, you must first and foremost be consistent. What I love about Green’s approach is that it encourages us to see the moral talent and accompanying competence that lies in inconsistency: in movement, in responsiveness, in a degree of unpredictability and fluidity and change.
-All of which means that sometimes, just sometimes, I might skip a day of this and have lie in followed by coffee and croissants.&lt;/p&gt;
-&lt;p&gt;Ooooh coffee, I haven’t had coffee yet…&lt;/p&gt;
-</description>
+      <description>This is my fourth daily writing exercise and I’m getting nervous. Here’s why:
+I didn’t wake up with an idea of what to write here.I’m doing this on borrowed time whilst my daughter watches Disney cartoons with headphones two metres away from me. I am uncertain how many hugs and snacks will be required before this is over, and whether I will get better or worse at this juggling act.</description>
     </item>
     
   </channel>
