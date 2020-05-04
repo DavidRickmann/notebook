@@ -10,12 +10,12 @@ title = "Lisa's Notebook"
 
 [taxonomies]
   category = "categories" 
-  group = "groups"
+  refs = "refs"
   series = "series"
   tag = "tags"
 
 [params]
-  subtitle = "Daily Writing exercises by Lisa McNulty."
+  subtitle = "Daily Writing Exercises by Lisa McNulty."
   copyrightHolder = "Lisa McNulty"
   showPoweredBy = false
 

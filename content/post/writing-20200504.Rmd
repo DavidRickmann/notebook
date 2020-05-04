@@ -7,7 +7,9 @@ series:
 tags: 
     - "vampirina"
     - "ethics"
-    - "green"
+refs:
+   - "Kant"
+   - "Green"
 ---
 
 
@@ -55,7 +57,7 @@ The best rebellion I have seen from this approach comes from Thomas Green’s �
 Green is an educationalist rather than an ethicist in the conventional sense, and so he is interested in the development of conscience in terms of how it relates to competence. He’s interested in how we develop self-appraisal. Here are the kind of ‘voices’ he’s talking about: 
 
 * **Conscience of craft:** Broadly this is the voice that tells you whether your work meets your own standards. In the case of writing that might be: is this a well crafted sentence? Does this paragraph have a clear structure? Have I referenced the right things? Is it interesting/funny? Is it accurate?
-* **Conscience as membership:** This is the voice which encourages us to reflect on our behaviour in the light of our membership in a community. So in this instance, I am broadly speaking a member of a community of ‘bloggers’, and blog-posters have certain conventions and reasons for having those conventions. This isn’t quite ‘the judgment of others’ in the ordinary sense. Partly this is because I am myself a member of this group, so it’s as much about my judgment as anyone else’s. More precisely, though, this isn’t the judgment of any particular member of the group, but of a sort of abstract Ideal Member who embodies the best qualities of the group. 
+* **Conscience as membership:** This is the voice which encourages us to reflect on our behaviour in the light of our membership in a community. So in this instance, I am broadly speaking a member of a community of ‘bloggers’, and bloggers have certain conventions and reasons for having those conventions. This isn’t quite ‘the judgment of others’ in the ordinary sense. Partly this is because I am myself a member of this group, so it’s as much about my judgment as anyone else’s. More precisely, though, this isn’t the judgment of any particular member of the group, but of a sort of abstract Ideal Member who embodies the best qualities of the group. 
 * **Conscience of sacrifice:** This is ‘the voice that stands against the inclinations of self-interest’. So in this context that would perhaps involve recognising and correcting for personal bias (such as the abiding feeling that consistency sucks. Huh. Oh well.) 
 * **Voice of memory:** This involves bringing ‘objects of the past into the present to take their place in forming standards of reflexive judgment’. This might involve recalling promises we have made to ourselves and to others, but might also be a case of recalling, ‘ok, how did this work out for you last time?’ 
 * **Conscience of imagination:** This is measuring our current practices, and those of our community, against what our imagination tells us it could be. 

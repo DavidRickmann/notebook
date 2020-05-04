@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>/tags/green/</loc>
+    <loc>/refs/green/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/refs/kant/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +34,11 @@
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/refs/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,10 +99,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/groups/</loc>
   </url>
   
 </urlset>

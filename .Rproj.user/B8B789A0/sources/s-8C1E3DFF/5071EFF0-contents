@@ -10,7 +10,7 @@ title = "Lisa's Notebook"
 
 [taxonomies]
   category = "categories" 
-  group = "groups"
+  refs = "refs"
   series = "series"
   tag = "tags"
 
