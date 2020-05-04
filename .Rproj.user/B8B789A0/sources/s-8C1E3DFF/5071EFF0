@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "5071EFF0",
-    "lastKnownWriteTime" : 1588551773,
-    "last_content_update" : 1588551773458,
+    "lastKnownWriteTime" : 1588586731,
+    "last_content_update" : 1588586731255,
     "path" : "~/Projects/lisanotes/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "13,19",
-        "scrollLine" : "20"
+        "cursorPosition" : "41,15",
+        "scrollLine" : "22"
     },
     "relative_order" : 1,
     "source_on_save" : false,
