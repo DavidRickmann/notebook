@@ -4,9 +4,13 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = true 
-canonifyurls = true
+canonifyurls = false
 theme = "hugo-tufte"
 title = "Lisa's Notebook"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+
 
 [taxonomies]
   category = "categories" 
@@ -41,11 +45,11 @@ title = "Lisa's Notebook"
   identifier = "tags"
   url = "/tags"
 [[menu.nav]]
-  name = "Series"
+  name = "Philosophers"
   pre = "<i class='fa fa-tags fa-lg'></i> "
   weight = 31 
-  identifier = "series"
-  url = "/series"
+  identifier = "refs"
+  url = "/refs"
 
 # -----------------------------------------------------------------------
 # Footer menu 
