@@ -46,5 +46,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Feinberg</title>
+      <link>/refs/feinberg/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/feinberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proctor</title>
+      <link>/refs/proctor/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/proctor/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

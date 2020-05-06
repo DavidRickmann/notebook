@@ -118,12 +118,22 @@
   </url>
   
   <url>
+    <loc>/refs/feinberg/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/lockdown/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/pedagogy/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/refs/proctor/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
