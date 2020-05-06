@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascal on Lisa&#39;s Notebook</title>
+    <link>/refs/pascal/</link>
+    <description>Recent content in Pascal on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/pascal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Should I Believe You?</title>
+      <link>/2020/05/06/why-should-i-believe-you/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/06/why-should-i-believe-you/</guid>
+      <description>Today I have a good deal of Real Work to do and so I can’t spend much time on this piece. However, even though consistency is the enemy, I’m reluctant to break my streak so soon, so I’m going to compromise with a bit of self-plagiarism.
+Back in 2013 I contributed a chapter to ‘The Good Wife and Philosophy: Temptations of Saint Alicia’, part of the Popular Culture and Philosophy series.</description>
+    </item>
+    
+  </channel>
+</rss>
