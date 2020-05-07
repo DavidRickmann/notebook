@@ -45,7 +45,7 @@ title = "Lisa's Notebook"
   identifier = "tags"
   url = "/tags"
 [[menu.nav]]
-  name = "Philosophers"
+  name = "Writers"
   pre = "<i class='fa fa-tags fa-lg'></i> "
   weight = 31 
   identifier = "refs"

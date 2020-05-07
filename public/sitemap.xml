@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/refs/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/revolutionary-road/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/tags/richard-yates/</loc>
+    <loc>/refs/richard-yates/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,17 +53,12 @@
   </url>
   
   <url>
+    <loc>/refs/blaise-pascal/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/libel/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/refs/pascal/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/refs/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/tags/sartre/</loc>
+    <loc>/refs/jean-paul-sartre/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/refs/sartre/</loc>
+    <loc>/tags/sartre/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>/refs/green/</loc>
+    <loc>/refs/immanuel-kant/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/refs/kant/</loc>
+    <loc>/refs/thomas-green/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/refs/feinberg/</loc>
+    <loc>/refs/joel-feinberg/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,7 +148,7 @@
   </url>
   
   <url>
-    <loc>/refs/proctor/</loc>
+    <loc>/refs/robert-proctor/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   

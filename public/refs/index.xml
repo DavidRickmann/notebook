@@ -5,62 +5,71 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Pascal</title>
-      <link>/refs/pascal/</link>
+      <title>Richard Yates</title>
+      <link>/refs/richard-yates/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/richard-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blaise Pascal</title>
+      <link>/refs/blaise-pascal/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/pascal/</guid>
+      <guid>/refs/blaise-pascal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sartre</title>
-      <link>/refs/sartre/</link>
+      <title>Jean-Paul Sartre</title>
+      <link>/refs/jean-paul-sartre/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/sartre/</guid>
+      <guid>/refs/jean-paul-sartre/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Green</title>
-      <link>/refs/green/</link>
+      <title>Immanuel Kant</title>
+      <link>/refs/immanuel-kant/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/green/</guid>
+      <guid>/refs/immanuel-kant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kant</title>
-      <link>/refs/kant/</link>
+      <title>Thomas Green</title>
+      <link>/refs/thomas-green/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/kant/</guid>
+      <guid>/refs/thomas-green/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Feinberg</title>
-      <link>/refs/feinberg/</link>
+      <title>Joel Feinberg</title>
+      <link>/refs/joel-feinberg/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/feinberg/</guid>
+      <guid>/refs/joel-feinberg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Proctor</title>
-      <link>/refs/proctor/</link>
+      <title>Robert Proctor</title>
+      <link>/refs/robert-proctor/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/refs/proctor/</guid>
+      <guid>/refs/robert-proctor/</guid>
       <description></description>
     </item>
     

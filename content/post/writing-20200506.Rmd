@@ -7,7 +7,7 @@ series:
 tags: 
     - "Libel"
 refs:
-   - "Pascal"
+   - "Blaise Pascal"
 ---
 
 

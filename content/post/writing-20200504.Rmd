@@ -8,8 +8,8 @@ tags:
     - "vampirina"
     - "ethics"
 refs:
-   - "Kant"
-   - "Green"
+   - "Immanuel Kant"
+   - "Thomas Green"
 ---
 
 

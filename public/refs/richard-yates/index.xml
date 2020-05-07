@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>houseboats on Lisa&#39;s Notebook</title>
-    <link>/tags/houseboats/</link>
-    <description>Recent content in houseboats on Lisa&#39;s Notebook</description>
+    <title>Richard Yates on Lisa&#39;s Notebook</title>
+    <link>/refs/richard-yates/</link>
+    <description>Recent content in Richard Yates on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/houseboats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/refs/richard-yates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,19 +17,6 @@
       
       <guid>/2020/05/07/revolutionary-road-how-not-to-be-interesting/</guid>
       <description>I recently re-read Revolutionary Road (say that three times fast). It’s a book I find compelling precisely because I don’t exactly connect to it. I am delighted by the manner in which I don’t connect to it. The central idea of the book is that the characters, Frank and April Wheeler, perceive themselves as more interesting than the people around them, as stifled by the oppressive conventionality of American suburbia, and as longing for escape.</description>
-    </item>
-    
-    <item>
-      <title>Houseboats as Liminal Spaces</title>
-      <link>/2020/05/03/houseboats-as-liminal-spaces/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/03/houseboats-as-liminal-spaces/</guid>
-      <description>I like to joke that houseboats ruin all metaphors. Examples include:
-Are you on board? No, but I’ll be home in a bit.
-Let’s push the boat out! But we’d need to get longer standoffs and it would take all afternoon, can we not?
-Wouldn’t touch you with a six foot barge pole! Well, good, it’s all covered in river goop.
-I’ll show you the ropes!</description>
     </item>
     
   </channel>

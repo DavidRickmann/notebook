@@ -10,7 +10,7 @@ tags:
     -  "doctor who"
     -  "Sartre"
 refs:
-   - "Sartre"
+   - "Jean-Paul Sartre"
 ---
 
 One of the few benefits of lockdown is reconnecting with old friends. My university Philsoc, who have made a couple of attempts at meeting up again to socialise, have realised that in fact we can use Zoom to just flat-out meet up and talk about philosophy once a fortnight. It’s the third meeting tonight, the topic is Immortality, and there is no set reading this time. So today’s entry is a two-for-one: I’m going to use my writing practice to prepare some thoughts for tonight’s meeting.
