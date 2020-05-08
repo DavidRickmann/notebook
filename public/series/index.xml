@@ -5,7 +5,7 @@
     <link>/series/</link>
     <description>Recent content in Series on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>daily writing</title>
       <link>/series/daily-writing/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/series/daily-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Not to Think Like Sherlock Holmes</title>
+      <link>/series/how-not-to-think-like-sherlock-holmes/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/series/how-not-to-think-like-sherlock-holmes/</guid>
       <description></description>
     </item>
     

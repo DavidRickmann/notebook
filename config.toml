@@ -19,7 +19,7 @@ title = "Lisa's Notebook"
   tag = "tags"
 
 [params]
-  subtitle = "Daily Writing Exercises by Lisa McNulty."
+  subtitle = "Writing Exercises by Lisa McNulty."
   copyrightHolder = "Lisa McNulty"
   showPoweredBy = false
 
