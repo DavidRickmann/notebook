@@ -5,7 +5,7 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,36 @@
     <item>
       <title>Arthur Conan Doyle</title>
       <link>/refs/arthur-conan-doyle/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/arthur-conan-doyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Locke</title>
+      <link>/refs/john-locke/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/john-locke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miranda Fricker</title>
+      <link>/refs/miranda-fricker/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/miranda-fricker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wendy Cope</title>
+      <link>/refs/wendy-cope/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/wendy-cope/</guid>
       <description></description>
     </item>
     

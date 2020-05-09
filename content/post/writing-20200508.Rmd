@@ -51,9 +51,9 @@ First things first: let’s see whether this argument is actually deduction. Ded
 
 >P2) Bruno is a cat.
 
+>*therefore:*
 
-
-> C) Bruno is an animal.
+>C\) Bruno is an animal.
 
 This argument is deductively valid. This is a statement about the structure of the argument. It simply means that if the premises are true, then the conclusion must also be true. A deductively valid argument may not in the broader sense be a good or useful argument. This is because an argument can be deductively valid but have one or more false premises. For example:
 
@@ -61,9 +61,9 @@ This argument is deductively valid. This is a statement about the structure of t
 
 >P2) Bruno is a cat.
 
+>*therefore:*
 
-
->C) Bruno is ginger.
+>C\) Bruno is ginger.
 
 This argument is deductively valid but, since P1 is false, it is not deductively sound. Deductively sound arguments are those which have a deductively valid structure (if the premises are true then the conclusion must be true as well) but where one or more premises are false. This does not necessarily mean that the conclusion is false. Bruno may in fact be ginger. We just can’t conclude that from the premises, because one of the premises is false.
 
@@ -77,9 +77,9 @@ Let’s start by putting this into standard form. This requires us to identify t
 
 > P2) Her wedding ring has not been regularly cleaned.
 
+>*therefore:*
 
-
-> C) She must not care about her marriage.
+> C\) She must not care about her marriage.
 
 This is clearly not a deductively valid argument. It seems entirely possible that the premises could be true and the conclusion false. Indeed it is not immediately obvious that the conclusion follows from the premises at all. Part of the reason for this, however, is that the argument has some unstated premises. There are steps of the argument which have been left out of the actual speech, with the intention that the listener fill in the blanks for themselves. So in order to properly represent the argument in standard form, we have to identify as best we can what those unstated premises are. So let’s give that a go.
 
@@ -91,9 +91,9 @@ This is clearly not a deductively valid argument. It seems entirely possible tha
 
 > P4) If she doesn’t care as much about her wedding ring much as her other jewellery, she must not care about the marriage that ring  represents, either.
 
+>*therefore:*
 
-
-> C) She must not care about her marriage.
+> C\) She must not care about her marriage.
 
 Technically, by bringing these unstated premises to the fore, I can hack together an argument which is deductively valid. However, the unstated premises are a hell of a lot weaker than the stated ones are. There is reasonably clear evidence that most of the jewellery has been regularly cleaned and that the wedding ring has not. Let us say that we have proven these to be true. {{% marginnote %}}  In fact it would be pretty difficult to be certain even of the first two premises. Can we really tell the difference forensically, on sight, between jewellery which has been regularly cleaned and jewellery which has merely been worn infrequently, for example? For our purposes, though, let us suppose that we had greater physical proof than this: receipts from a jewellers, say. {{% /marginnote %}}   If we skip straight from that to ‘she must not care about her marriage’, then the argument as a whole feels kinda plausible (until we examine it under a microscope, as we are doing. But (P3) and (P4) are clearly far more tricksy. It certainly seems possible that they are false, and therefore that the argument is deductively unsound.
 
@@ -105,11 +105,11 @@ One way of dealing with possibly false premises is to weaken our premises to pro
 
 >P3) P1 and P2 together show that she probably doesn't care about her wedding ring as much as her other jewellery.
 
->P4) If she doesn’t care as much about her wedding ring much as her other jewellery, she probably doesn’t  care about the marriage that ring represents, either.
+>P4) If she doesn’t care as much about her wedding ring as much as her other jewellery, she probably doesn’t  care about the marriage that ring represents, either.
 
+>*therefore:*
 
-
-> C) She probably doesn’t care about her marriage.
+>C\) She probably doesn’t care about her marriage.
 
   
 
@@ -121,8 +121,9 @@ The attempt here is to produce an inductively forceful argument. Inductively for
 
 >P2) The picnic is planned for an afternoon in May.
 
+>*therefore:*
 
->   C) Probably, there will be warm weather for the picnic.
+>C\) Probably, there will be warm weather for the picnic.
 
 This argument acknowledges the possibility of the conclusion being false, but if the premises are true (and they are), then the conclusion is probably true as well. It’s therefore still a pretty good argument.
 

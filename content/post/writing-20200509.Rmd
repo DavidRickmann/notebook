@@ -1,0 +1,97 @@
+---  
+title: "How Not to Think like Sherlock Holmes [Part Two]"  
+author: "Lisa McNulty"  
+date: "2020-05-09"  
+series:  
+- "daily writing"  
+- "How Not to Think Like Sherlock Holmes"
+tags:  
+- "Sherlock Holmes" 
+- "Epistemic Injustice"
+refs:  
+- "Arthur Conan Doyle"
+- "Miranda Fricker"
+- "Wendy Cope"
+- "John Locke"
+---
+
+
+So yesterday I analysed the argumentative structure of a section of the argument put forward by Sherlock in the Study in Pink. One of the purposes of this exercise was to illustrate various argument structures: it’s a good way of demonstrating what deduction actually is, what deductively valid and deductively sound arguments are, and what inductively forceful arguments are. The other purpose, however, was to illustrate the discrepancy between how good Sherlock’s arguments are perceived to be by others, and how good they actually are.
+
+When I’ve run this class before, I’ve had the students read through the script, and also an alternative script which offers different explanations for the same observed phenomena, and then encourage them to come up with their own alternative explanations. The students rapidly conclude that the argument is weak.
+
+So then I put it to them: ‘why did you believe him?’
+
+Now, admittedly, part of the reason to trust Sherlock Holmes is his reputation. He has previously solved a lot of cases, and one might reasonably infer from that fact that he knows what he is talking about. Yet, the extent of the deference he is granted does seem to surpass the competence that he demonstrates, certainly the competence that he demonstrates in the course of this particular argument.
+
+Here are some of the answers I’ve received for the question ‘why did you believe him?’
+
+-   He was speaking really quickly so he seemed to know what he was talking about.
+-   He’s really confident. He just sort of sweeps in and takes charge.
+-   He’s really tall (?!)
+    
+
+The last of these was only half in jest and got us into the idea of how Sherlock’s appearence might affect how believable he is perceived to be. Yes, he’s tall, he’s good-looking. He’s also well-dressed and well-spoken in a manner which indicates wealth. He might be believable due to competence, sure, but he is also believed due to certain social privileges he carries: privileges of gender, class, and race.
+
+Thought experiment on the latter point: Sherlock Holmes has a significant history of Class A drug use and an antagonistic relationship with several members of the police force. He is extremely lucky he’s rich and white.
+
+It’s useful here to borrow a concept developed by Miranda Fricker in Epistemic Injustice: Power and Ethics of Knowing. To suffer an epistemic injustice is to be ‘wronged in one’s capacity as a knower’. One example of this is testimonial injustice, where your testimony is doubted for epistemically irrelevant reasons which connect to your membership of a marginalized group.
+
+Fricker is primarily interested in epistemic injustice as an extension of social injustice more generally. She acknowledges, but does not take particularly seriously, the reversal of this situation, where your testimony is too easily believed by those around you due to epistemically irrelevant reasons which connect to your membership of a privileged group.
+
+My instincts are different. If you are unjustifiably believed because of your privilege, then you risk having false beliefs reinforced and passing them onto others. It may lead you to lack appropriate standards of self-appraisal in the future. It’s not a social injustice against you, sure, but it is still a distinctly epistemic one, against both you and people you will interact with in the future. Believing Sherlock when he is wrong, or rather not bothering to treat his argument with an appropriate degree of skeptical engagement before believing it, is an injustice of sorts against him. He will be less wise for it.
+
+I’m also interested in something which lies kind of at the border of ‘marginalisation’, and that is the skill and the manner with which one is able to present the argument itself. I think this is very well expressed in the following poem by Wendy Cope:
+ 
+
+**He Tells Her**
+
+> He tells her that the Earth is flat—  
+> He knows the facts, and that is that.   
+> In altercations fierce and long  
+> She tries her best to prove him wrong.  
+> But he has learned to argue well.  
+> He calls her arguments unsound  
+> And often asks her not to yell.  
+> She cannot win. He stands his ground.  
+>
+>
+>
+> The planet goes on being round.
+
+  
+
+Clearly the situation Cope illustrates here is connected to social justice and particularly to gender. The manner with which the nameless ‘she’ presents herself is archetypally feminine and emotional. She argues ‘fiercely’ and ‘long’, she (at least according to the questionable other party) ‘yells’. She, unlike her opponent, has not ‘learnt to argue well’ and therefore her arguments are ‘unsound’. Yet, what she believes is true.
+
+Now, the fact that what she believes is true does not necessarily mean that her arguments actually are sound. We believe true things without having sound arguments for them. Perhaps we took the conclusion on trust from someone else {{% marginnote %}} If they are an expert or generally trustworthy, then you would be justified in believing them, but you would not have the arguments to hand to pass on to someone else.{{% /marginnote %}} , perhaps it was sheer blind luck. So perhaps, even though her beliefs are true, she in fact has not learnt to argue well.
+
+There is an interesting ambiguity here, though. What do we mean by ‘learning to argue well’? Is this about learning a particular manner of presentation, or is it about learning to reason things through in a particular way?
+
+Certainly to doubt someone’s testimony owing to their failure to present things in a particular way would be an epistemic injustice. In the scene from Study in Pink, a forensics expert named Anderson tried to make a contribution to Sherlock’s investigation by interpreting the note left by the murder victim. This is how that went:
+
+> ***Anderson***: ‘She’s German. Rache, German for revenge. She might be trying to tell us something...’
+> 
+> ***Sherlock***: ‘Yes thank you for your input’ *[slams door in Anderson’s face]*... Of course she’s not. She’s from out of town though.... So far so obvious.
+
+Anderson lacks Sherlock’s dominance, his confidence, his style, and therefore his contribution is ignored. The tiny in-joke here is that in the original Holmes story on which this is based, the Study in Scarlet, it is Holmes who arrives at the conclusion that the victim is German, mocking the other detective’s idea that the victim had been attempting to write ‘Rachel’ - the precise conclusion that he comes to in this case. The strength of the argument remains the same, but in this case it is adopted by someone with a better way of presenting that argument. Anderson is clearly being treated unjustly here.
+
+But suppose that the woman in Cope’s poem isn’t just unable, or unwilling, to present the argument ‘appropriately’ (which is to say in the calm, unagitated manner demanded by her opponent). She also hasn’t been trained to argue well in another sense. She can’t arrange her thoughts in the particular way that convention requires.
+
+For example, [yesterday’s entry](/2020/05/08/how-not-to-think-like-sherlock-holmes-part-one) was peppered with arguments written in standard form. Standard form is a useful method to clarify an argument structure and draw out the unspoken premises for analysis. However. It is not necessary to learn standard form in order to recognise that there is something wrong with an argument, and the inability to use standard form, or the disinclination to do so, does not reflect a lack of understanding.
+
+John Locke recognised this. In an era when syllogistic reasoning was part of a standard education, he wrote in Book IV of the Essay Concerning Human Understanding:
+
+> Tell a country gentlewoman that the wind is south-west, and the
+> weather louring, and like to rain, and she will easily understand it
+> is not safe for her to go abroad thin clad, in such a day, after a
+> fever: she clearly sees the probable connexion of all these, viz.
+> south-west wind, and clouds, rain, wetting, taking cold, relapse, and
+> danger of death, without tying them together in those artificial and
+> cumbersome fetters of several syllogisms, that clog and hinder the
+> mind, which proceeds from one part to another quicker and clearer
+> without them; and the probability which she easily perceives in things
+> thus in their native state would be quite lost, if this argument were
+> managed learnedly, and proposed in mode and figure.
+
+I personally find syllogism, or standard form, a useful tool. But it is not a necessary one. If we demand familiarity with certain approaches to reasoning and argumentation before we are willing to take someone’s testimony seriously, then we risk dismissing valuable perspectives. In other words, it is an epistemic injustice of sorts to disregard a person’s argument simply because they cannot argue well.
+
