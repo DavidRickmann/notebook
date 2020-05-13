@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bertrand Russell on Lisa&#39;s Notebook</title>
+    <link>/refs/bertrand-russell/</link>
+    <description>Recent content in Bertrand Russell on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/bertrand-russell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knowledge by Acquaintance</title>
+      <link>/2020/05/13/knowledge-by-acquaintance/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/13/knowledge-by-acquaintance/</guid>
+      <description>A computer told me to take a degree in philosophy.
+Seriously. When I was doing my ‘A’ levels, my school handed out a multiple choice quiz for us to complete about our interests and preferences, which was intended to help us choose a university degree. The quizzes were read and analyzed electronically and recommendations were sent back to us. My second hit was English Literature, which was no surprise, since I was doing an ‘A’ level in that, and had got an A at GCSE.</description>
+    </item>
+    
+  </channel>
+</rss>

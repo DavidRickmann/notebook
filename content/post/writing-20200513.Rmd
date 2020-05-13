@@ -1,0 +1,57 @@
+---  
+title: "Knowledge by Acquaintance"  
+author: "Lisa McNulty"  
+date: "2020-05-13"  
+series:  
+- "daily writing"
+tags:
+- "decisions"
+refs:
+- "Bertrand Russell"
+---
+
+A computer told me to take a degree in philosophy.
+
+Seriously. When I was doing my ‘A’ levels, my school handed out a multiple choice quiz for us to complete about our interests and preferences, which was intended to help us choose a university degree. The quizzes were read and analyzed electronically and recommendations were sent back to us. My second hit was English Literature, which was no surprise, since I was doing an ‘A’ level in that, and had got an A at GCSE. But the first hit was Philosophy.
+
+Reader, I didn’t know what it was.
+
+So, I went to a bookshop and bought myself a copy of Bertrand Russell’s The Problems of Philosophy, and discovered that there is a word for how my brain works. The rest is history (well, philosophy). {{% marginnote %}}I have a theory, not yet substantiated in either part, that (a) I am probably not neurotypical and (b) non-neurotypicals experience philosophy differently. The ‘typical’ experience of philosophy is that the questions seem to have really obvious answers until you analyse them, at which point they are revealed as far more complicated and confusing than you thought. I’m pretty sure I found them genuinely confusing from the beginning. It is tricky to remember now, of course. {{% /marginnote %}}
+
+I’m no Russell scholar, but I have a special fondness for Russell for bringing me into the fold, and for one contribution in particular which he made to epistemology: the concept of knowledge by acquaintance.
+
+There is a traditional definition of knowledge called the tripartite definition. According to this definition, in order for you to know something:
+
+1.  It must be true,
+    
+2.  You must believe it to be true,
+    
+3.  You must have some justification (evidence) for believing that it is true.
+    
+
+So, the failure modes include:
+
+-   You might believe something on decent evidence but it turns out to be false anyway;
+    
+-   You might have good evidence to believe something, which is actually true, but nonetheless fail to believe it [perhaps due to some bias or prejudice](https://en.wikipedia.org/wiki/Epistemic_injustice) which leads you evaluate the evidence as weaker than it is);
+    
+-   You might [believe something which happens to be true,](https://www.iep.utm.edu/epi-luck/) but which at present you have little or no evidence for(perhaps because you really want it to be true).
+    
+
+Traditional mainstream epistemology takes this definition as the default position to challenge and play with. So they might ask questions about what [‘truth’ is ](https://plato.stanford.edu/entries/truth/), or what we mean by [‘belief’](https://plato.stanford.edu/entries/belief/#TypeDegrRelaBeli), or most commonly of all, what counts as [‘justification’](https://plato.stanford.edu/entries/epistemology/#WhatJust). Or else they might challenge the structure itself, pointing out cases of justified true belief which still don’t seem to count as knowledge, as [Gettier](https://plato.stanford.edu/entries/knowledge-analysis/#GettProb) does.
+
+However this model largely serves to analyse propositional knowledge or knowledge by description. This is knowledge which can be expressed in declarative sentences, like ‘the square root of 42 is 6.4807’ or ‘Shakespeare wrote Hamlet in 1603’ or ‘Switzerland shares borders with Italy, Germany, France, Austria and Liechtenstein’.
+
+Knowledge by acquaintance, however, can only be obtained by a direct, causal interaction between the person and the object that person is perceiving. {{% marginnote %}} ‘Object’ is being used in a broad sense here: we can of course be acquainted with people.{{% /marginnote %}} In short, it is only possible through direct experience. Compare ‘knowing that Paris is the capital of France’ to ‘knowing Paris’. To be acquainted with Paris, it is not sufficient to read books about Paris. It is necessary actually to go and spend time in Paris, perhaps quite a lot of time, until you have a feel for the place, an instinct for it.
+
+In educational terms, there are a couple of significant differences between a curriculum focused largely on propositional knowledge and one focused largely on knowledge by acquaintance.
+
+The first is measurability. It is relatively easy to measure propositional knowledge in the form of exams and assessments. Knowledge by acquaintance is necessarily vaguer. Therefore the value of knowledge by acquaintance will tend to be measured in terms of its impact on the development of propositional knowledge, rather than evaluated in its own right.
+
+The second is affordability. Knowledge by acquaintance is considerably more expensive. This is obviously true if your goal is to take the children to Paris, but there is also a price difference between reading out passages in the chemistry book and buying the chemicals and equipment so that the children can actually see or even perform the experiments, between talking about the life cycle of a plant and setting up a school allotment, between reading a play and seeing it performed. The difference between a wealthy school and a less-wealthy one can often be measured in terms of the proportion of knowledge-by-acquaintance that the school is in a position to provide.
+
+Lockdown is widening the gap between the privileged and disadvantaged children in terms of their entire education; because they are now more dependent on the education and energy levels of their parents than ever before. But this is particularly true of knowledge-by acquaintance. Some parents will have the resources to order chemistry kits over the Internet, a garden for their children to grow flowers and vegetables in, art materials for projects. Others will not. The longer lockdown continues, the deeper this discrepancy will grow.
+
+And yet. Even the wealthiest schools are having to be creative about the ways in which they can provide experiences. Reading a play doesn’t seem very experiential, going to the theatre does; reading about experiments seems to result in (mere) propositional knowledge, whilst seeing explosions provides knowledge-by-acquaintance. But how does livestream, and Zoom, fit into all of this? If you see your teacher perform a chemistry experiment over Zoom, are you acquainted with it? What about seeing Hamlet performed live at the National Theatre? It seems to be an in-between state, a faded kind of experiential learning, but experiential learning nonetheless.
+
+Vitally, though, it is (by accident, not design) an affordable approach to experiential learning. If it becomes mainstream, it opens up the possibility of more experiential learning becoming available to the least privileged children in the country, and I for one would willingly dwell in a philosophical halfway house to enable that to happen.
