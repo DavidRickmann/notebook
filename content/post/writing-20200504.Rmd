@@ -18,9 +18,11 @@ This is my fourth daily writing exercise and I’m getting nervous. Here’s why
 * I didn’t wake up with an idea of what to write here.
 * I’m doing this on borrowed time whilst my daughter watches Disney cartoons with headphones two metres away from me. I am uncertain how many hugs and snacks will be required before this is over, and whether I will get better or worse at this juggling act. 	
 
-{{% marginnote %}}*Interruptions included:*{{% /marginnote %}}
-{{% marginnote %}}	&#8226; Me remembering that I hadn’t offered my daughter the second piece of toast I made for her. She doesn’t want it. Nor do I. Some birds can have it later.{{% /marginnote %}}
-{{% marginnote %}} 	&#8226; Her interrupting me to tell me that she ‘wanted it to be the red one!’ A cartoon character had selected an item. Apparently, it was in fact the red one. So that’s good.{{% /marginnote %}}
+tufte::margin_note("This is a margin note
+
+{{% marginnote %}}*Interruptions included:*
+&#8226; Me remembering that I hadn’t offered my daughter the second piece of toast I made for her. She doesn’t want it. Nor do I. Some birds can have it later. 
+&#8226; Her interrupting me to tell me that she ‘wanted it to be the red one!’ A cartoon character had selected an item. Apparently, it was in fact the red one. So that’s good.   
 {{% marginnote %}} 	&#8226; ‘Mummy, can I have an ice lolly?’ It’s 7am. Ugh, fine, I’ll get you the one that’s just frozen orange juice and we’ll pretend that it’s part of a balanced breakfast.{{% /marginnote %}}
 {{% marginnote %}} 	&#8226; ‘Mummy I just watched Secret Spies!... detailed explanation of the plotline’ {{% /marginnote %}}
 {{% marginnote %}} 	&#8226; ‘Mummy, did you know I can come over to you with my eyes closed? And I can move my ice lolly with my eyes closed. And my lips are so strong I can bite my ice lolly with my lips, look’{{% /marginnote %}}
@@ -37,6 +39,8 @@ This is my fourth daily writing exercise and I’m getting nervous. Here’s why
 {{% marginnote %}} 	&#8226; ‘Mummy, I want to watch Vampirina’{{% /marginnote %}}
 {{% marginnote %}} 	&#8226; 'Mummy, she winked at me! Mummy, she winked at me! Vampirina!' &#119135; *sings the theme song* &#119135; {{% /marginnote %}}
 {{% marginnote %}} 	*Look, you get the idea.*  {{% /marginnote %}}
+
+")
 
 * I still think my first entry was the best one, and that’s uncomfortable.
 
