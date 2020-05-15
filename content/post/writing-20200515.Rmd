@@ -1,0 +1,51 @@
+---  
+title: "Testimony and Received Opinion"  
+author: "Lisa McNulty"  
+date: "2020-05-15"  
+series:  
+- "daily writing"
+tags:
+- "testimony"
+- "epistemology"
+refs:
+- "John Locke"
+---
+
+
+I am something of an apologist for Locke. An archetypal empiricist, Locke believes that all the knowledge we have is gained through our experiences; either through sensations, or through reflections upon sensations. This seems broadly intuitively true to the modern ear. (The alternative, that some knowledge is innate, is not actually disproved by Locke in the Essay Concerning Human Understanding, but it is discredited by providing an alternative, empiricist explanation for all the knowledge we have.)
+
+One interesting difficulty with such a consistently empiricist approach is that it’s not clear how we can gain knowledge from other people. If you tell me that something is the case (that you’ve bought a new car, for example) my sensory experiences are of your voice and body language, not of the new car. If I can only gain knowledge through my senses, then it would seem that I only know you have a new car when I actually see the car myself (and even then I might not know that it is really your car.)
+
+Locke’s opponents have been quick to jump on the fact that Locke doesn’t seem to allow for the possibility of knowledge being gained via testimony. The first point in Locke’s defence is that he’s super picky about his use of the term ‘knowledge’ anyway. He’ll only call something ‘knowledge’ if there can be no room for doubt at all. The question is really whether, according to Locke, we can justify our beliefs by listening to what other people have to say.
+
+The answer is ‘potentially but not always, and certainly not by default’.
+
+Locke draws a distinction between ‘received opinion’ and ‘testimony’. If you have a ‘received opinion’, you have believed someone without engaging in any critical process whatsoever. If you have ‘testimony’, then you have undergone this process. It is therefore possible for one listener to end up with ‘received opinion’ and the other with ‘testimonial (lets say) knowledge” when listening to the same person at the same time.
+
+Locke lays out what “critical assessment” of testimonial sources consists of:
+
+... In the Testimony of others, is to be considered,
+
+1. The Number.
+
+2. The Integrity.
+
+3. The Skill of the Witnesses.
+
+4. The Design of the Author, where it is a Testimony out of a Book cited.
+
+5. The Consistency of the Parts…
+
+6. Contrary Testimonies.
+
+*(Essay, XV, §4)*
+
+So part of the critical assessment consists of evaluating the person you are listening to, in terms of their moral character and their intellectual competence: are they dishonest? Are they too lazy to have done their homework? Do they have the necessary skill to evaluate the evidence in front of them and present it fairly? If they are the author of a book, they may (and indeed are likely to) present the reader with an unrepresentative account of the evidence, which the reading must balance out by seeking alternative testimonies elsewhere.
+
+So, requirements 2, 3, and 4 require us to assess the person giving the testimony, whilst 5 concerns the internal consistency of the testimony. (If there is a contradiction within the story we can suppose the witness to be lying or mistaken). But requirements 1 and 6 require us to pay attention to the possibility of alternative testimonies. What number (or rather, proportion) of people who know about this subject agree with the speaker we are listening to at the moment? Are there contradictory testimonies, and what do they say?
+
+In short the difference between ‘received opinions’ and ‘testimonial knowledge’ is partly to do with social isolation. If alternative testimonies are unavailable to you, then you are compromised in your ability to assess any particular testimony. Locke’s proposed solution is that we widen the opinions to which we are exposed: we read more widely and we socialise more widely, and this will enable us to reason better, and therefore gain more testimonial knowledge and less received opinion.
+
+This is broadly good advice. However, it naturally presupposes a rather less complex epistemic environment than the one we find ourselves faced with now. We don’t face any difficulty in increasing the number of perspectives to which we are exposed, because we have pretty much automatic access to a lot of other people’s opinions: notably on Twitter. The problem is that we cannot possibly actively engage with all the opinions that we have access to. We need to filter in some way or other. We have to decide which voices are worth listening to and filter out the distractions and the dross. Unfortunately, since we do not have the time to evaluate each of them ourselves, we tend to draw in new voices on the basis of a sort of transitive epistemic trust: I trust George, he trusts Sarah, so I trust Sarah. In this way, our epistemic community grows without diversifying. The challenge we face is how to ensure that we listen to ‘contrary testimonies’ on key issues, whilst ensuring that those testimonies are not from people who are fanatics, extremists, or in other ways unsafe. Unfortunately, those are the very people who are most willing to leave their own epistemic bubbles in order to engage, combatively, with their opponents. So we are more likely to encounter them than we are to encounter more moderate opposition.
+
+I don’t pretend to have a solution to this. I am as vulnerable to it as anyone. In fact I believe that finding a solution to this is perhaps the most significant epistemic problem of the internet era. All of us want to feel part of a community which accepts us, where we don’t have to justify ourselves or explain our values or who we are. That is not a need which is going away, and it’s not a sign of intellectual cowardice or weakness. It’s just human. So insofar as we can solve this at all on an individual level, it might be necessary to cultivate two separate online approaches or even identities: the first for when we want to be ourselves without judgment, and the second for when we have the spoons to engage properly with contrary views. And there should be no shame, especially in a crisis, for spending most of our time with the first. It is simply a case of prioritising our mental health over our intellectual development, which in the long term, will benefit both.
