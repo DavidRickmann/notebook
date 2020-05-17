@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>soup on Lisa&#39;s Notebook</title>
-    <link>/tags/soup/</link>
-    <description>Recent content in soup on Lisa&#39;s Notebook</description>
+    <title>Helen Longino on Lisa&#39;s Notebook</title>
+    <link>/refs/helen-longino/</link>
+    <description>Recent content in Helen Longino on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/soup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/refs/helen-longino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>/2020/05/17/helen-longino-on-cognitively-optimal-communities/</guid>
       <description>Helen Longino is a social epistemologist and a philosopher of science, interested in establishing what it takes for the consensus of a research group to count as knowledge. According to Longino, knowledge ‘is constructed not by individuals, but by an interactive dialogic community’ (Longino 1994: 143). In short, knowledge arises from dialogue, but not just any form of dialogue. The interactions between members of a cognitive community must amount to ‘genuine and mutual checks’ if the group’s enquiries are to be objective.</description>
-    </item>
-    
-    <item>
-      <title>Tom Yum-ish Soup</title>
-      <link>/2020/05/14/tom-yum-ish-soup/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/14/tom-yum-ish-soup/</guid>
-      <description>We bought way too much food for my daughter’s birthday. We ended up surrounded by a dangerous amount of leftover sandwiches and cake. Then after she was asleep, I had a watch party with friends. The sensible thing would have been to gather a sort of picnic dinner. It was, however, the last thing I wanted. I was craving vegetables, I was craving spice, and if I was going to have anything like that, I needed to make it in a short enough time that I wouldn’t miss much of the watch party.</description>
     </item>
     
   </channel>
