@@ -3,7 +3,6 @@ title: "Children’s Agnotological Rights in a Pandemic"
 author: "Lisa McNulty"
 date: "2020-05-02"
 series:
-    - "daily writing"
 tags: 
     - "lockdown"
     - "agnetology"

@@ -5,10 +5,37 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>John Locke</title>
+      <link>/refs/john-locke/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/john-locke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Rawls</title>
+      <link>/refs/john-rawls/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/john-rawls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Nozick</title>
+      <link>/refs/robert-nozick/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/robert-nozick/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Helen Longino</title>
@@ -16,15 +43,6 @@
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/helen-longino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Locke</title>
-      <link>/refs/john-locke/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/john-locke/</guid>
       <description></description>
     </item>
     

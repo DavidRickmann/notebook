@@ -3,7 +3,6 @@ title: "Testimony and Received Opinion"
 author: "Lisa McNulty"  
 date: "2020-05-15"  
 series:  
-- "daily writing"
 tags:
 - "testimony"
 - "epistemology"

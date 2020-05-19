@@ -3,7 +3,6 @@ title: "Beauty and Identity"
 author: "Lisa McNulty"
 date: "2020-05-01"
 series:
-    - "daily writing"
 tags: 
     - "lockdown"
     - "Disney"
