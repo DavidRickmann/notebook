@@ -1,0 +1,55 @@
+---  
+title: "Elmo, the Cookie Monster, and Epistemic Injustice"
+author: "Lisa McNulty"  
+date: "2020-05-20"  
+series:  
+- "Philsoc"
+tags:
+- "Cookies"
+- "Epistemic Injustice"
+refs:  
+- "Janice E. Jackson"
+- "Lisa Green"
+
+---
+
+
+
+
+Last night at Philsoc I had cause to bring up a fascinating piece of research.
+
+{{% marginnote %}}Jackson J.E., Green L. (2005) Tense and Aspectual be in Child African American English. In: Verkuyl H.J., de Swart H., van Hout A. (eds) Perspectives on Aspect. Studies in Theoretical Psycholinguistics, vol 32. Springer, Dordrecht {{% /marginnote %}}
+
+Janice E. Jackson and Lisa Green conducted research on a group of primary school students in Massachusetts. Some of the students were white, some black. They showed them a picture in which the Cookie Monster was ill in bed and not eating any cookies, whilst Elmo sat by the bedside, eating cookies.
+
+
+| Cookie Monster |Elmo  |
+|--|--|
+| ![Cookie Monster, not eating a cookie](/img/cookiemonster.png) | ![Elmo, Eating a cookie](/img/elmo.png) |
+
+Firstly the students were asked:
+
+“Who is eating cookies?”
+
+When asked this question, all the students picked Elmo, who was indeed eating cookies at the time.
+
+Then they asked a follow-up question:
+
+“Who be eating cookies?”
+
+At this point the answers were split. The white students again indicated Elmo, but this time the black students - the students familiar with African American English - chose the Cookie Monster.
+
+‘Who be eating cookies?’ is not the same question as ‘who is eating cookies?’. The latter is a question about their behaviour at this particular moment in time. The former is a question about their habitual behaviour. So whilst Elmo is eating cookies, it’s not true to say that ‘Elmo be eating cookies’, since it is occasional and not habitual behaviour for him to eat cookies. Conversely, ‘Cookie Monster be eating cookies’ is true whether or not he is eating cookies at this particular moment, because eating cookies is Cookie Monster’s natural existential state.
+
+This is what is known as the ‘habitual be’.
+
+Things to note here are:
+
+-   This is a really useful distinction to have available in everyday language. I strongly suspect that were the ‘habitual be’ part of Standard American English, American schools would be testing students on their proficiency in distinguishing ‘habitual be’ from ‘is’.
+    
+-   Educators unfamiliar with AAE would be very likely to assume that in pointing to the Cookie Monster, the black students were simply in error or not paying sufficient attention to the question. They are likely to interpret use of the habitual ‘be’ as a grammatically incorrect version of ‘is’ (or if they are more sympathetic, as an acceptable variation of it).
+    
+-   So the student’s greater competence is liable to be read as incompetence. Which sucks.
+    
+
+I brought this up in the context of discussing [the Veil of Ignorance](/2020/05/19/the-veil-of-ignorance/). I was making the point that social and epistemic injustices are often weirdly specific things which are pretty much invisible if it’s not you experiencing them; and this invisibility remains in place even if you are nice. From behind the Veil we could certainly come up with ‘don’t be racist’ as a general principle. But I am unconvinced that holding that or any other general principle would, in and of itself, help in identifying or addressing an issue like this one. Doing that requires prioritising the voices of the people who are actually experiencing the injustice: in this case very small voices, speaking an unfamiliar dialect.

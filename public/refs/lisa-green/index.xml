@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Green on Lisa&#39;s Notebook</title>
+    <link>/refs/lisa-green/</link>
+    <description>Recent content in Lisa Green on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/lisa-green/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elmo, the Cookie Monster, and Epistemic Injustice</title>
+      <link>/2020/05/20/elmo-the-cookie-monster-and-epistemic-injustice/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/20/elmo-the-cookie-monster-and-epistemic-injustice/</guid>
+      <description>Last night at Philsoc I had cause to bring up a fascinating piece of research.
+&amp;#8853; Jackson J.E., Green L. (2005) Tense and Aspectual be in Child African American English. In: Verkuyl H.J., de Swart H., van Hout A. (eds) Perspectives on Aspect. Studies in Theoretical Psycholinguistics, vol 32. Springer, Dordrecht  Janice E. Jackson and Lisa Green conducted research on a group of primary school students in Massachusetts. Some of the students were white, some black.</description>
+    </item>
+    
+  </channel>
+</rss>
