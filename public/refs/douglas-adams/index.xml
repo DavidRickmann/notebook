@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Adams on Lisa&#39;s Notebook</title>
+    <link>/refs/douglas-adams/</link>
+    <description>Recent content in Douglas Adams on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/douglas-adams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Not to Think like Sherlock Holmes [Part Three]</title>
+      <link>/2020/05/22/how-not-to-think-like-sherlock-holmes-part-three/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/22/how-not-to-think-like-sherlock-holmes-part-three/</guid>
+      <description>Holmes’ approach to reasoning can be summed up in the famous phrase:
+‘When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.’
+This is known as the Holmesian Fallacy, and there are a number of ways in which it is wrong.
+It requires you to identify every potential explanation for the observed phenomenon,
+It requires you to demonstrate that all but one of those is impossible,</description>
+    </item>
+    
+  </channel>
+</rss>

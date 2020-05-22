@@ -1,0 +1,65 @@
+---  
+title: "How Not to Think like Sherlock Holmes [Part Three]"
+author: "Lisa McNulty"  
+date: "2020-05-22"  
+series:  
+- "How Not to Think Like Sherlock Holmes"
+tags:
+refs:  
+- "Arthur Cohan Doyle"
+- "Douglas Adams"
+- "Aristotle, De Anima"
+- "Susan Haack"
+- "Thales"
+
+---
+
+
+
+
+
+Holmes’ approach to reasoning can be summed up in the famous phrase:
+
+‘When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.’
+
+This is known as the Holmesian Fallacy, and there are a number of ways in which it is wrong.
+
+1.  It requires you to identify every potential explanation for the observed phenomenon,
+    
+2.  It requires you to demonstrate that all but one of those is impossible,
+    
+3.  It claims that we are more justified in believing highly improbable statements than impossible ones.
+    
+
+Starting with (A): certainly we can identify a number of the more plausible potential explanations for something and then try to rule some out, and this is perfectly good investigative practice. We cannot, however, identify them all. We don’t have that degree of information or imagination (certainly not as individuals, but even as communities). Also it might be something of a waste of intellectual resources to try, since some of the potential explanations will be wildly silly.
+
+(B) also can’t be done. Proving something to be impossible is not only a difficult task, but arguably an impossible task for empirical claims (yes yes, recursion, hush, the point stands). To be trite about it, it is not even logically impossible for the killer to appear out of thin air and then disappear again. It is merely physically impossible. But the thing about physical impossibilities is they aren’t as impossible as logical impossibilities.
+
+Aristotle wrote about Thales, who observed the interactions of lodestones (or what we would call ‘magnets’) with iron. Since it is clearly impossible for inanimate objects to move other inanimate objects, the stone must be imbued with some active force. Thales took this as proof that all things were full of gods.
+
+Of course it is perfectly possible for inanimate objects to move other inanimate objects if they are magnetic, but Thales didn’t know about magnetism. Not only that, but magnetism was inconsistent with his overall understanding of how the world worked. Really that’s what we mean by ‘impossible’.
+
+This isn’t at all stupid, by the way. Susan Haack presents a concept of scientific knowledge called foundherentism, which is intended as a cross between coherentism and foundationalism. Coherentism calls on us to test our beliefs by establishing whether or not they are coherent with other beliefs that we already have. If some new observation isn’t coherent with the established ones, it makes more sense to doubt the particular observation than the established system you and others have put so much work into. After all, it’s more likely that you’ve made one basic mistake, than that you and those you work with have a whole bunch of mutually supporting basic mistakes (or let us hope so, anyway).
+
+However.
+
+We can’t ignore observation as the foundation of our knowledge. The coherentist approach is only OK if we also keep observing, and if, when the evidence piles up that the original non-cohering observation wasn’t a mistake, we acknowledge that the established system must be wrong in some way, and put effort into figuring out how.
+
+Essentially, it’s not necessarily a point against an idea that the idea is impossible. It might just make it more interesting.
+
+And so we come to \(C\). In The Long, Dark Teatime of the Soul, Douglas Adams offers a wonderful and memorable attack on the Holmesian Fallacy:
+
+> The impossible often has a kind of integrity to it which the merely
+> improbable lacks. How often have you been presented with an apparently
+> rational explanation of something which works in all respects other
+> than one, which is just that it is hopelessly improbable? Your
+> instinct is to say "Yes, but he or she simply wouldn't do
+> that."....The idea that she is receiving yesterday's stock market
+> prices apparently out of thin air is merely impossible, and therefore
+> must be the case, because the idea that she is maintaining an
+> immensely complex and laborious hoax of no benefit to herself is
+> hopelessly improbable. The first idea merely supposes that there is
+> something we don't know about, and God knows there are enough of
+> those.
+
+When faced with a choice between accepting a highly improbable explanation and an impossible one, Adams suggests that we might be more justified in believing the impossible. To believe the ‘impossible’ here is to believe that there is something we don’t know about, that there are layers to this that don’t meet the eye; that there are questions we haven’t even thought to ask yet. It demonstrates intellectual modesty and curiosity, which can carry us a good deal further than genius ever could.
