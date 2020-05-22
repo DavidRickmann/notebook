@@ -24,16 +24,16 @@ Holmes’ approach to reasoning can be summed up in the famous phrase:
 
 This is known as the Holmesian Fallacy, and there are a number of ways in which it is wrong.
 
-1.  It requires you to identify every potential explanation for the observed phenomenon,
+**A**.  It requires you to identify every potential explanation for the observed phenomenon,
     
-2.  It requires you to demonstrate that all but one of those is impossible,
+**B**.  It requires you to demonstrate that all but one of those is impossible,
     
-3.  It claims that we are more justified in believing highly improbable statements than impossible ones.
+**C**.  It claims that we are more justified in believing highly improbable statements than impossible ones.
     
 
-Starting with (A): certainly we can identify a number of the more plausible potential explanations for something and then try to rule some out, and this is perfectly good investigative practice. We cannot, however, identify them all. We don’t have that degree of information or imagination (certainly not as individuals, but even as communities). Also it might be something of a waste of intellectual resources to try, since some of the potential explanations will be wildly silly.
+Starting with **A**: certainly we can identify a number of the more plausible potential explanations for something and then try to rule some out, and this is perfectly good investigative practice. We cannot, however, identify them all. We don’t have that degree of information or imagination (certainly not as individuals, but even as communities). Also it might be something of a waste of intellectual resources to try, since some of the potential explanations will be wildly silly.
 
-(B) also can’t be done. Proving something to be impossible is not only a difficult task, but arguably an impossible task for empirical claims (yes yes, recursion, hush, the point stands). To be trite about it, it is not even logically impossible for the killer to appear out of thin air and then disappear again. It is merely physically impossible. But the thing about physical impossibilities is they aren’t as impossible as logical impossibilities.
+**B** also can’t be done. Proving something to be impossible is not only a difficult task, but arguably an impossible task for empirical claims (yes yes, recursion, hush, the point stands). To be trite about it, it is not even logically impossible for the killer to appear out of thin air and then disappear again. It is merely physically impossible. But the thing about physical impossibilities is they aren’t as impossible as logical impossibilities.
 
 Aristotle wrote about Thales, who observed the interactions of lodestones (or what we would call ‘magnets’) with iron. Since it is clearly impossible for inanimate objects to move other inanimate objects, the stone must be imbued with some active force. Thales took this as proof that all things were full of gods.
 
@@ -47,7 +47,7 @@ We can’t ignore observation as the foundation of our knowledge. The coherentis
 
 Essentially, it’s not necessarily a point against an idea that the idea is impossible. It might just make it more interesting.
 
-And so we come to \(C\). In The Long, Dark Teatime of the Soul, Douglas Adams offers a wonderful and memorable attack on the Holmesian Fallacy:
+And so we come to **C**. In The Long, Dark Teatime of the Soul, Douglas Adams offers a wonderful and memorable attack on the Holmesian Fallacy:
 
 > The impossible often has a kind of integrity to it which the merely
 > improbable lacks. How often have you been presented with an apparently
