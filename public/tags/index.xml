@@ -5,10 +5,19 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ethics</title>
+      <link>/tags/ethics/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ethics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cookies</title>
@@ -151,15 +160,6 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sartre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethics</title>
-      <link>/tags/ethics/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ethics/</guid>
       <description></description>
     </item>
     

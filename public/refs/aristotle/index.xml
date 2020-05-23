@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ethics on Lisa&#39;s Notebook</title>
-    <link>/tags/ethics/</link>
-    <description>Recent content in ethics on Lisa&#39;s Notebook</description>
+    <title>Aristotle on Lisa&#39;s Notebook</title>
+    <link>/refs/aristotle/</link>
+    <description>Recent content in Aristotle on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/refs/aristotle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       <guid>/2020/05/23/drabble-aristotles-ethics/</guid>
       <description>For the uninitiated, a ‘drabble’ is a work of fiction of exactly 100 words long, which is intended to test the writer’s ability to express interesting ideas in a confined space. I am experimenting here with using the format to explain philosophical concepts. This may become something I use as writing prompts for days when I am short of time and spoons.
 (This isn’t the drabble yet. The next paragraph is the drabble.</description>
-    </item>
-    
-    <item>
-      <title>Consistency is the Enemy</title>
-      <link>/2020/05/04/consistency-is-the-enemy/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/04/consistency-is-the-enemy/</guid>
-      <description>This is my fourth daily writing exercise and I’m getting nervous. Here’s why:
-I didn’t wake up with an idea of what to write here.I’m doing this on borrowed time whilst my daughter watches Disney cartoons with headphones two metres away from me. I am uncertain how many hugs and snacks will be required before this is over, and whether I will get better or worse at this juggling act.</description>
     </item>
     
   </channel>
