@@ -41,15 +41,21 @@ GoogleAnalytics = "UA-166245943-1"
   identifier = "posts"
   url = "/post"
 [[menu.nav]]
+  name = "Series"
+  pre = "<i class='fa fa-book fa-lg'></i> "
+  weight = 30 
+  identifier = "series"
+  url = "/series"
+[[menu.nav]]
   name = "Tags"
   pre = "<i class='fa fa-tags fa-lg'></i> "
-  weight = 30 
+  weight = 40 
   identifier = "tags"
   url = "/tags"
 [[menu.nav]]
   name = "Writers"
   pre = "<i class='fa fa-tags fa-lg'></i> "
-  weight = 31 
+  weight = 50 
   identifier = "refs"
   url = "/refs"
 
