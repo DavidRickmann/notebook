@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drabble on Lisa&#39;s Notebook</title>
-    <link>/series/drabble/</link>
-    <description>Recent content in Drabble on Lisa&#39;s Notebook</description>
+    <title>David Hume on Lisa&#39;s Notebook</title>
+    <link>/refs/david-hume/</link>
+    <description>Recent content in David Hume on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/series/drabble/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/refs/david-hume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,6 @@
       
       <guid>/2020/05/24/drabble-humes-fork/</guid>
       <description>Hume’s Fork divides ‘relations of ideas’ from ‘matters of fact’. Relations of ideas are things we know to be true because of how concepts relate to each other, and we know them by understanding the concepts (e.g. ‘bachelors are unmarried’.) &amp;#8853;I once knew a lecturer, who in a desire to be mildly original, changed this classic example to ‘every husband has a wife’. No one told him. Matters of fact are true because of how the world is, and we know them through experience of the world (e.</description>
-    </item>
-    
-    <item>
-      <title>Drabble - Aristotle’s Ethics</title>
-      <link>/2020/05/23/drabble-aristotles-ethics/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/23/drabble-aristotles-ethics/</guid>
-      <description>For the uninitiated, a ‘drabble’ is a work of fiction of exactly 100 words long, which is intended to test the writer’s ability to express interesting ideas in a confined space. I am experimenting here with using the format to explain philosophical concepts. This may become something I use as writing prompts for days when I am short of time and spoons.
-(This isn’t the drabble yet. The next paragraph is the drabble.</description>
     </item>
     
   </channel>
