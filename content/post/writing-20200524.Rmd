@@ -1,0 +1,12 @@
+---
+title: "Drabble - Hume’s Fork"
+author: "Lisa McNulty"
+date: "2020-05-24"
+series:
+  - "Drabble"
+refs:
+   - "David Hume"
+---
+
+
+Hume’s Fork divides ‘relations of ideas’ from ‘matters of fact’. Relations of ideas are things we know to be true because of how concepts relate to each other, and we know them by understanding the concepts (e.g. ‘bachelors are unmarried’.) {{% marginnote %}}I once knew a lecturer, who in a desire to be mildly original, changed this classic example to ‘every husband has a wife’. No one told him. {{% /marginnote %}} Matters of fact are true because of how the world is, and we know them through experience of the world (e.g. ripe lemons are yellow). Anything which fails to fit into either category doesn’t count as knowledge. God doesn’t fall into either category, but neither does causation, because we don’t experience causation: we only witness patterns of events. 
