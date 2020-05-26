@@ -5,10 +5,19 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A.C. Grayling</title>
+      <link>/refs/a.c.-grayling/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/a.c.-grayling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>David Hume</title>

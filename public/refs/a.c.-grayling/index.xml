@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.C. Grayling on Lisa&#39;s Notebook</title>
+    <link>/refs/a.c.-grayling/</link>
+    <description>Recent content in A.C. Grayling on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/a.c.-grayling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Great Shallows of Philosophy</title>
+      <link>/2020/05/26/the-great-shallows-of-philosophy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/26/the-great-shallows-of-philosophy/</guid>
+      <description>I have a comfort zone in philosophy: epistemology and ethics. Within those, I like my questions pretty applied. I like questions about the nature of knowledge; but I immediately want to relate them to questions about good and bad ways of pursuing knowledge (philosophy of science and social science) or disseminating it (philosophy of education, social epistemology). I am interested in ethics, but I prefer applied ethics, where you are trying to solve particular ethical problems and bring in different ethical systems as tools to do it, to ‘straight’ ethics, which involves studying the systems themselves in great depth - especially as the subtext of such study is often ‘choose between these,’ and consistency is the enemy.</description>
+    </item>
+    
+  </channel>
+</rss>
