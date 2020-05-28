@@ -1,0 +1,102 @@
+---
+title: "The Fallacy Fallacy"
+author: "Lisa McNulty"
+date: "2020-05-28"
+tags: 
+- "Fallacies"
+refs:
+- "Anne Thomson"  
+- "Bowell and Kemp"
+
+---
+
+
+
+As I mentioned in my last post, I’m fond of informal logic. However I’m aware that as a field, informal logic can suffer from its formal logic ancestry. Philosophers who cut their teeth on notation may wish to translate the skill into assessing ordinary language arguments, but they may drag too much formality along with them. Notably, there is a temptation to focus on fallacies. Teachers like them because they are neat and tidy and easy to test on; students like them because they have a favourable effort-to-‘feeling clever’ ratio.
+
+Fallacies have fun names: ad hominem, slippery slope, No True Scotsman. They are kind of delightful to learn: you are presented with a clearly bad argument structure, a fun name for that structure, and then are invited to find that bad argument structure in other places and call the argurers out; which means you get to use the aforementioned fun names. If you’re lucky, your opponent won’t even know the fun names, and you will get to roll your eyes and patiently explain.
+
+This is a terrible practice, for a few reasons:
+
+-   Just because an argument is fallacious doesn’t mean it’s bad.
+    
+-   Just because an argument is bad doesn’t mean it’s fallacious.
+    
+-   You’re being an asshole.
+    
+
+To illustrate the first point, I’ll use the example of ad hominem arguments. These are arguments which focus on the person rather than the argument they are presenting. They are fallacious because naturally, a person can have all manner of vices and still put forward a decent argument. Consider the following (adapted from *Critical Thinking, A Concise Guide*, Bowell and Kemp) :
+
+> “I don’t see why we should accept the new Criminal Justice Bill when
+> the minister presented it to us in such an arrogant and domineering
+> way.”
+
+This argument is invalid, Bowell and Kemp maintain, because the fact that the minister is being arrogant and domineering doesn’t mean that the Criminal Justice bill shouldn’t be accepted.
+
+However.
+
+A lot of personal vices actually are relevant to the value of someone’s testimony, and an arrogant and domineering presentation style is definitely one of them. If the minister is arrogant, then they are insufficiently modest to have appropriate doubts about their choices, and therefore unlikely to have made sufficient checks. If they are domineering, then they are actively discouraging others from making sufficient checks. These are damn good reasons to think that there is likely to be significant problems with the Criminal Justice Bill. So whilst this is certainly a fallacious argument - it fits the structure of the fallacy - it’s not a *bad* argument.
+
+Now let’s turn to the second point: not all bad arguments are fallacious. This is simply because fallacies are names for simple argument structures, and an argument can be extremely bad without fitting into any of those structures. Here’s an exercise from *Critical Reasoning, A Practical Introduction*, by Anne Thomson:
+
+> Identity the flaws in the following pieces of reasoning:
+> 
+> “Neither marijuana nor LSD can be harmful, since they are used by
+> doctors to ease the pain of cancer patients.’
+
+And the answer in the back:
+
+> “The conclusion is that neither marijuana nor LSD can be harmful. The
+> reason given for this is that doctors use them as painkillers for
+> cancer patients. The conclusion does not follow, since doctors may
+> have to use drugs which are harmful when the alternative - leaving the
+> patient to suffer severe pain - is worse.”
+
+As far as I know, this flaw in reasoning doesn’t have a name. (It might, there are a lot of named fallacies and I don’t know them all, but let’s suppose for the moment that it doesn’t.) Whether it has a name or it does not, it is a hell of a lot more useful to be able to describe the flaw in reasoning in ordinary English than to be able to name the fallacy, because that makes it more legible to other people, who may not know the fun names.
+
+And it’s the failure to concern yourself with legibility which means that you’re being an asshole.
+
+To illustrate, here’s another exercise from Thomson:
+
+> “Crimes and outrages of all sorts have been committed under a full
+> moon by a wide variety of people. The advice to derive from this is
+> clear: when the moon is full, trust no-one, even yourself”.
+
+And the answer in the back:
+
+> “This is an example of the flaw of assuming that because two things
+> have occurred together, one has caused the other. The fact that crimes
+> have been committed when the moon is full is not a good reason to
+> believe that the full moon causes people to commit crimes.”
+
+Hey that’s *post hoc ergo prompter hoc!*
+
+Yes. It is. Bravo. Have a biscuit.
+
+But a student would fail the quiz if they gave that answer.
+
+They are (rightly) being asked to *explain what the problem is*, regardless of whether there is a neat little name for it. One reason for this is that giving the explanation demonstrates their understanding better than being able to name a fallacy ever could. But it also makes the criticism clearer both to them and to the person they are criticising.
+
+Which is exactly what you want... or what you don’t want, depending on what the argument is for.
+
+Looking back at this argument here:
+
+> “I don’t see why we should accept the new Criminal Justice Bill when
+> the minister presented it to us in such an arrogant and domineering
+> way.”
+
+You could respond with:
+
+> “That’s nothing but an ad hominem attack.”
+
+Or:
+
+> “Just because the minister is arrogant and domineering in his
+> presentation style doesn’t mean that we shouldn’t accept the Criminal
+> Justice Bill”.
+
+The first response demonstrates that you know what an ad hominem attack is and that you think your opponent is guilty of it. The second shows the actual issues with this particular argument, lays them out clearly, and gives your opponent a better chance to give you a meaningful response: a response which you might end up convinced by.
+
+The second response *makes you less likely to win*.
+
+This is what ‘arguing well’ really means: *increasing* the possibility of your opponent convincing you that you are wrong. You will have to work harder. You will feel less clever. It is somewhat less fun. But you will make better arguments and better decisions than you ever could with a fallacious use of fallacies.

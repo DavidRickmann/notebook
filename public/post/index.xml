@@ -5,10 +5,19 @@
     <link>/post/</link>
     <description>Recent content in Posts on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Fallacy Fallacy</title>
+      <link>/2020/05/28/the-fallacy-fallacy/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/28/the-fallacy-fallacy/</guid>
+      <description>As I mentioned in my last post, I’m fond of informal logic. However I’m aware that as a field, informal logic can suffer from its formal logic ancestry. Philosophers who cut their teeth on notation may wish to translate the skill into assessing ordinary language arguments, but they may drag too much formality along with them. Notably, there is a temptation to focus on fallacies. Teachers like them because they are neat and tidy and easy to test on; students like them because they have a favourable effort-to-‘feeling clever’ ratio.</description>
+    </item>
     
     <item>
       <title>The Great Shallows of Philosophy</title>
