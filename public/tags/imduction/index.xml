@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Hume on Lisa&#39;s Notebook</title>
-    <link>/refs/david-hume/</link>
-    <description>Recent content in David Hume on Lisa&#39;s Notebook</description>
+    <title>Imduction on Lisa&#39;s Notebook</title>
+    <link>/tags/imduction/</link>
+    <description>Recent content in Imduction on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/refs/david-hume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/imduction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>/2020/05/29/drabble-the-problem-of-induction-and-falsificationism/</guid>
       <description>The Problem of Induction, initially presented by David Hume, is that since scientific knowledge is founded on experience, we are not justified in believing that the causal patterns we have thus far witnessed will continue in the future, or that they apply in parts of space we have not directly observed. Proving scientific theories to be true is therefore impossible. Karl Popper responds by arguing that the distinctive feature of scientific claims is not that they can be verified but that they can be falsified.</description>
-    </item>
-    
-    <item>
-      <title>Drabble - Hume’s Fork</title>
-      <link>/2020/05/24/drabble-humes-fork/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/24/drabble-humes-fork/</guid>
-      <description>Hume’s Fork divides ‘relations of ideas’ from ‘matters of fact’. Relations of ideas are things we know to be true because of how concepts relate to each other, and we know them by understanding the concepts (e.g. ‘bachelors are unmarried’.) &amp;#8853; I once knew a lecturer, who in a desire to be mildly original, changed this classic example to ‘every husband has a wife’. No one told him.  Matters of fact are true because of how the world is, and we know them through experience of the world (e.</description>
     </item>
     
   </channel>

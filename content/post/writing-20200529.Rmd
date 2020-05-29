@@ -1,0 +1,17 @@
+---
+title: "Drabble - The Problem of Induction and Falsificationism"
+author: "Lisa McNulty"
+date: "2020-05-29"
+series:
+- "drabble"
+tags: 
+- "Imduction"
+- "Falsification"
+refs:
+- "David Hume"  
+
+
+---
+
+
+The Problem of Induction, initially presented by [David Hume](/2020/05/24/drabble-humes-fork/), is that since scientific knowledge is founded on experience, we are not justified in believing that the causal patterns we have thus far witnessed will continue in the future, or that they apply in parts of space we have not directly observed. Proving scientific theories to be true is therefore impossible. Karl Popper responds by arguing that the distinctive feature of scientific claims is not that they can be verified but that they can be falsified. To test our theories we make bold conjectures, and then try to prove them wrong.  

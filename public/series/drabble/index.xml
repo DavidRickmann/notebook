@@ -5,10 +5,19 @@
     <link>/series/drabble/</link>
     <description>Recent content in Drabble on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/series/drabble/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drabble - The Problem of Induction and Falsificationism</title>
+      <link>/2020/05/29/drabble-the-problem-of-induction-and-falsificationism/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/29/drabble-the-problem-of-induction-and-falsificationism/</guid>
+      <description>The Problem of Induction, initially presented by David Hume, is that since scientific knowledge is founded on experience, we are not justified in believing that the causal patterns we have thus far witnessed will continue in the future, or that they apply in parts of space we have not directly observed. Proving scientific theories to be true is therefore impossible. Karl Popper responds by arguing that the distinctive feature of scientific claims is not that they can be verified but that they can be falsified.</description>
+    </item>
     
     <item>
       <title>Drabble - Hume’s Fork</title>
