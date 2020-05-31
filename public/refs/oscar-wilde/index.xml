@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Wilde on Lisa&#39;s Notebook</title>
+    <link>/refs/oscar-wilde/</link>
+    <description>Recent content in Oscar Wilde on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/oscar-wilde/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>May Reading</title>
+      <link>/2020/05/31/may-reading/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/31/may-reading/</guid>
+      <description>My plan is for the last entry of every month to be a record of the reading I’ve done that month. I’m not going to attempt anything significant in terms of reviews unless the mood takes me, but I’ll include at least a line or two of description.This is what I’ve read in May:
+NovelsConfessions of the Fox, Jordy Rosenburg.Compellingly strange, half written in footnotes, this is two novels in one.</description>
+    </item>
+    
+  </channel>
+</rss>
