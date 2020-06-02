@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Epistemology on Lisa&#39;s Notebook</title>
-    <link>/tags/epistemology/</link>
-    <description>Recent content in Epistemology on Lisa&#39;s Notebook</description>
+    <title>Edmund Gettier on Lisa&#39;s Notebook</title>
+    <link>/refs/edmund-gettier/</link>
+    <description>Recent content in Edmund Gettier on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/epistemology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/refs/edmund-gettier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <guid>/2020/06/01/justified-true-belief-in-education/</guid>
       <description>I find the thought of doing epistemology without talking about education faintly bizarre. Theory of knowledge, even at its most abstract, seems so deeply connected to theories of learning that it surprises me how distinct the fields are in practice. For this piece I’m going to play around with the traditional, tripartite definition of knowledge just to see how each of the three elements maps onto educational practices.
 &amp;#8853; Note, I am well aware of the limitations of the tripartite definition of knowledge, and not only because of Gettier but it’s not not useful and it’s fun to play with it here.</description>
-    </item>
-    
-    <item>
-      <title>Testimony and Received Opinion</title>
-      <link>/2020/05/15/testimony-and-received-opinion/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/15/testimony-and-received-opinion/</guid>
-      <description>I am something of an apologist for Locke. An archetypal empiricist, Locke believes that all the knowledge we have is gained through our experiences; either through sensations, or through reflections upon sensations. This seems broadly intuitively true to the modern ear. (The alternative, that some knowledge is innate, is not actually disproved by Locke in the Essay Concerning Human Understanding, but it is discredited by providing an alternative, empiricist explanation for all the knowledge we have.</description>
     </item>
     
   </channel>

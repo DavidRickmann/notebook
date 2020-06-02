@@ -5,10 +5,19 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edmund Gettier</title>
+      <link>/refs/edmund-gettier/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/edmund-gettier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Daniel J. Siegel</title>
