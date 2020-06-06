@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Kuhn on Lisa&#39;s Notebook</title>
+    <link>/refs/thomas-kuhn/</link>
+    <description>Recent content in Thomas Kuhn on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/thomas-kuhn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drabble - Kuhnian Incommensurability</title>
+      <link>/2020/06/04/drabble-kuhnian-incommensurability/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/04/drabble-kuhnian-incommensurability/</guid>
+      <description>Thomas Kuhn, in the Structure of Scientific Revolutions, suggests the science does not accumulate knowledge in a linear way. Instead there are periods of ‘normal science’, in which scientists work within a paradigm (e.g. Newtonian physics) to solve puzzles. Eventually anomalous results build up which challenge the paradigm, but scientists are not inclined to abandon the paradigm unless a rival paradigm is available. A scientist adopting a new paradigm is a radical intellectual shift.</description>
+    </item>
+    
+  </channel>
+</rss>

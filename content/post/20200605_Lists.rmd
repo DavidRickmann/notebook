@@ -1,0 +1,70 @@
+---
+title: "The Trouble with Lists"
+author: "Lisa McNulty"
+date: "2020-06-05"
+refs:
+  - "John Dewey"
+tags:
+  - "lists"
+  - "hobbies"
+  - "horse riding"
+  - "fencing"
+  - "gilbert and sullivan"
+---
+
+
+
+I find the physical act of handwriting soothing. Typing is more efficient and I can keep track of my work better once I’ve done it, but for some things only pen and paper will do. Preferably, WhSmiths A4 narrow-lined paper, and a Uniball Eye Fine pen in black. Wide-lined paper will do at a pinch, but if forced to use a standard ballpoint I will do so with displeasure. When I’m marking, despite the fact that the university system will have the details, I will write down names or ID numbers, record the grades, collate data on how many fell into each grade boundary. I do this even though I will throw the paper records away. It’s more about the process than the product. It helps me focus, which is all well and good.
+
+Similarly, I will jot down physical notes (which I do not intend to keep) whilst reading, during other people’s talks and presentations, and whilst teaching - points to come back to, student names.
+
+And then there are the lists.
+
+Shopping lists, obviously. To-do lists, for the day or the week.
+
+But sometimes, with a suitably soothing pen and paper in my hands, I will instinctively write a to-do-list of the wrong kind. These are the kind which list my achievements, coupled with my goals. These might be professional goals, or personal development goals, often to do with re-starting or advancing in hobbies and interests.
+
+Now it might seem like this act of drawing my attention to what I want to accomplish would be a good idea, an aid to focus, as in the other cases. But it isn’t, because these lists have a mind of their own.
+
+Specifically, they don’t like being too short, and they don’t like having pieces missing. So, for example, the moment I write:
+
+-   Sing a main role in a Gilbert and Sullivan show,
+    
+
+I also want to write
+
+-   Learn to play piano.
+    
+
+Now the first of these is specific, achievable (I might not get a main role the first time I go for it but even so), and directly connected to stuff I am already doing. The second is connected to the first: I could [learn to sight-read](/2020/05/16/being-an-expert-novice/) by learning to play the piano, and I could accompany myself whilst practicing, and that would be good. However, it is a significantly greater time commitment above and beyond what I am already doing, and whilst I actively want to sing, I merely want to be the *sort of person who can play the piano*.
+
+A variation of this: long ago I used to ride horses, and I used to be in a fencing club. So if I’m listing activities I would like to get back into when I have the time, I will write:
+
+-   Start riding again
+    
+
+and then instinctively want to write
+
+-   Join a fencing club.
+    
+
+Again, there is a significant difference between these two things. It is possible to approach horse riding as an occasional treat. I love horse riding as an experience, but I feel no particular need to excel at it. I just occasionally want to look at some scenery from between a horses’ ears, and if I’m being wildly ambitious, canter a bit. Riding once a month or so would be plenty, and there are stables which would tolerate such a mild flirtation with the sport. Fencing, however, requires expertise in order to be enjoyable. If I wasn’t fencing at least once and preferably twice a week, I would be absolutely no fun to fence against. It’s a wildly unachievable goal in comparison. Yet it kind of feels like it’s in the same category, and not putting it down on the list feels like accepting that I won’t fence again, and I don’t like *the idea of not fencing again*, so the instinct is to put it down.
+
+Then there are things which don’t connect to my existing or youthful interests at all, *but feel like things I should be doing*. The prime two for me are Duolingo and daily meditation practice. Neither of these really work for me. I can keep Duolingo going, but whilst I can hit the target of ‘do your Duolingo’, I haven’t graduated from there to ‘actually learn the language’, and I don’t think I’m likely to do so. I’ve tried meditation programmes, but I don’t actually find the experience particularly compelling. It’s probably good for me? but it doesn’t engage me.
+
+Part of the problem of letting my pen form my goals in this way is simply the classic SMART goal issue. The distinction between *specific, achievable, relevant, time-bound* goals and amorphous open-ended ones isn’t easy to make when I’m just letting associations flow: the list doesn’t know the difference between singing practice and piano practice. But there are a couple of other things going on.
+
+Firstly, the list wants to grow, and with this comes a reluctance to acknowledge the *permanent* need for slack time. It’s not simply that filling most days with activities is something that is temporarily out of reach; it is never going to be a good idea. Which means there will always be interesting and valuable things to do which I don’t have the time or spoons to do.
+
+Secondly, the list wants to feel complete, and this does not encourage me to draw a distinction between ‘wanting’ and ‘wanting to want’. There are things which I am not currently doing which I occasionally feel strong pangs of desire to do (horse riding) or which are a natural and desirable extension of what I am already doing (singing, but in a main role). And then there are things which an *idealised version of myself* would actively want to do and have time to devote to (playing piano, fencing); or even which my more *generalised image of an educated and well-rounded person* would want to do (learning a language, meditating).
+
+In Democracy and Education, when John Dewey defines ‘education’ as ‘growth’, he adds that this growth is directionless. We do not actually grow *towards* anything except more growth. Planning an overall trajectory is therefore both impossible and somewhat missing the point. Growth:
+
+> "is the characteristic of life and education is all one with growing;
+> it has no end beyond itself. The criterion of the value of school
+> education is the extent in which it creates a desire for continued
+> growth and supplies means for making the desire effective in fact."
+
+Growth, then, has to arise from actual desire. It cannot arise from a desire that some idealised version of me would have, or that some ideal abstract person would have. It certainly cannot be inspired with reference to an end goal, a blueprint of what ‘me but grown’ would look like, a neatly completed list. Soothing though it might be to compose such a list, in the end it is denying the nature of my education, not designing it.
+
+Time to put down the pen.

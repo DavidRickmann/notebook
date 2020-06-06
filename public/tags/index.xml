@@ -5,24 +5,60 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Epistemology</title>
-      <link>/tags/epistemology/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <title>fencing</title>
+      <link>/tags/fencing/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/epistemology/</guid>
+      <guid>/tags/fencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gilbert and sullivan</title>
+      <link>/tags/gilbert-and-sullivan/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gilbert-and-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hobbies</title>
+      <link>/tags/hobbies/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hobbies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>horse riding</title>
+      <link>/tags/horse-riding/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/horse-riding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lists</title>
+      <link>/tags/lists/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Falsification</title>
       <link>/tags/falsification/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/falsification/</guid>
       <description></description>
@@ -31,9 +67,18 @@
     <item>
       <title>Induction</title>
       <link>/tags/induction/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/induction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epistemology</title>
+      <link>/tags/epistemology/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/epistemology/</guid>
       <description></description>
     </item>
     
@@ -88,24 +133,6 @@
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/expertise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gilbert and Sullivan</title>
-      <link>/tags/gilbert-and-sullivan/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gilbert-and-sullivan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hobbies</title>
-      <link>/tags/hobbies/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hobbies/</guid>
       <description></description>
     </item>
     
