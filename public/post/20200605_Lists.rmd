@@ -11,7 +11,7 @@ tags:
   - "fencing"
   - "gilbert and sullivan"
 description: "Sometimes I write lists..."
-twitterImg: /img/lists.jpg
+twitterImg: lists.jpg
 ---
 
 
