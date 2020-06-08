@@ -33,6 +33,17 @@
         <a  href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
     {{ end }}
+    
+        {{ if .Params.series }}
+      <br>
+      <i class="fa fa-book"> </i>
+      {{ range .Params.series }}
+        <a  href="{{ "/series/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+    {{ end }}
+  </span>
+    
+    
   </span>
 {{ end }}
 {{ end }}
