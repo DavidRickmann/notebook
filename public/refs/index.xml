@@ -5,10 +5,19 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edmund Gettier</title>
+      <link>/refs/edmund-gettier/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/edmund-gettier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>John Dewey</title>
@@ -25,15 +34,6 @@
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/thomas-kuhn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edmund Gettier</title>
-      <link>/refs/edmund-gettier/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/edmund-gettier/</guid>
       <description></description>
     </item>
     
