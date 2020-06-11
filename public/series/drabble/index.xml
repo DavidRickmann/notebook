@@ -5,10 +5,19 @@
     <link>/series/drabble/</link>
     <description>Recent content in drabble on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/series/drabble/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drabble - Susan Haack’s Founderentism</title>
+      <link>/2020/06/11/drabble-susan-haacks-founderentism/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/11/drabble-susan-haacks-founderentism/</guid>
+      <description>Foundationalism holds that certain beliefs are self-evident. Other beliefs are justified with reference to these. According to coherentism, foundational beliefs don’t exist. Instead beliefs justify each other, like puzzle pieces fitting together. Haack argues that scientific investigation actually progresses like completing a crossword puzzle: it needs foundations (observations) and coherence (an overall theory). You read the clue (look at the results of your experiment), and complete the answer. If it doesn’t fit with other answers already completed, first check the clue again (for a potential anomaly); only then check the accuracy of the other answers (overall theory).</description>
+    </item>
     
     <item>
       <title>Drabble - Gettier</title>

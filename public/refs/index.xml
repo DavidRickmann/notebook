@@ -5,10 +5,19 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Susan Haack</title>
+      <link>/refs/susan-haack/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/susan-haack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Edmund Gettier</title>
@@ -187,15 +196,6 @@
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/douglas-adams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Susan Haack</title>
-      <link>/refs/susan-haack/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/susan-haack/</guid>
       <description></description>
     </item>
     
