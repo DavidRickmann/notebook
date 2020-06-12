@@ -9,7 +9,7 @@ tags:
 - "Autons"
 refs:
 - "Edmund Gettier"
-
+description: "100 Words on Gettier and autons!"
 
 ---
 
