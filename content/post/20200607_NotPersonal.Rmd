@@ -2,7 +2,7 @@
 title: "It's Nothing Personal"
 author: "Lisa McNulty"
 date: "2020-06-07"
-twitterImg: 248px-Minervas_ugle.png
+twitterImg: needle.jpg
 description: "Some thoughts on yesterdays post about lists."
 
 ---
