@@ -3,32 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/refs/arthur-conan-doyle/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/how-not-to-think-like-sherlock-holmes/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/06/14/how-not-to-think-like-sherlock-holmes-part-four/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/refs/john-locke/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/refs/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/series/drabble/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/2020/06/11/drabble-susan-haacks-foundherentism/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/refs/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,17 +278,7 @@
   </url>
   
   <url>
-    <loc>/refs/arthur-conan-doyle/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/refs/douglas-adams/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/how-not-to-think-like-sherlock-holmes/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -310,11 +320,6 @@
   <url>
     <loc>/series/philsoc/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/refs/john-locke/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
