@@ -6,8 +6,9 @@ series:
 tags: 
   - "epistemology"
 refs:
+  - "John Locke"
 twitterImg: rumsfeld.jpg
-description: "What you don't know that you know?"
+description: "On not knowing what you know."
 ---
 
 
