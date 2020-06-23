@@ -5,7 +5,7 @@ date: "2020-06-22"
 series:
 tags: 
 refs:
-twitterImg: coffeecup2.jpg
+twitterImg: coffeecup2.png
 description: "Some people say that..."
 ---
 
