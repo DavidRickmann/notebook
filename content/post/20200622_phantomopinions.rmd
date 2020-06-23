@@ -1,0 +1,50 @@
+---
+title: "Phantom Opinions"
+author: "Lisa McNulty"
+date: "2020-06-22"
+series:
+tags: 
+refs:
+twitterImg: coffeecup2.jpg
+description: "Some people say that..."
+---
+
+
+
+
+
+I am going to do something deeply uncharacteristic here. I’m going to coin a term for a fallacy. [Yes yes, I know](/2020/05/28/the-fallacy-fallacy/), but [consistency is the enemy](/2020/05/04/consistency-is-the-enemy/) even here. Whilst I maintain that being able to describe this argumentative problem is better than being able to name it, perhaps the existence of a name is nonetheless a hermeneutical tool of some use. Let’s find out.
+
+There is a phrase I keep coming across, in conversation, in student essays, and sometimes even in academic papers, which goes something like this:
+
+-   Some people say that...
+    
+-   Most people believe that...
+    
+-   Everyone thinks...
+    
+
+Having established the view that ‘everyone’ has, the writer or speaker will then go on to espouse their own, opposed, or else subtler view. Here’s a rather lovely example, posted by DawnWagesSays on Twitter:
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1274356563835224071')
+```
+
+The tweet includes an image of a Deutsche Bank branded coffee cup with the slogan: *‘Some see European heritage as a limitation. Agile minds have a more global perspective.’*
+
+{{% marginnote %}}  Dawn posted this to point out the unfortunate imperialistic vibes of the phrase, though as she says, what the Deutsche Bank is probably trying to get across is “we are a European bank in a US market, but that can be a good thing”.{{% /marginnote %}}
+
+This clearly sets up a rather weak position, ‘European heritage is a limitation’, in order to attack it. Therefore we could say that this is a version of a ‘straw man’ argument. But I don’t think that quite fits. It’s key to the concept of a straw man that you are misrepresenting the views of an individual, or a clearly identifiable group of people, in order to make their argument seem less plausible than it actually is. So for example, ‘vegans think animals should have all the rights that people have, so they would give pigs the vote’ is a straw man, because it misrepresents the views of vegans. But the Deutsche Bank hasn’t identified a group of people to misrepresent. Instead they are referring to an amorphous ‘some’.
+
+It is forgivable, perhaps, not to cite your sources on a coffee cup, but there is something more going on than an unattributed source. Unattributed sources might occur because you have forgotten to cite, forgotten where you read or heard something, or (possibly) are sharing knowledge common enough that even though you could find a source if you wanted to, it doesn’t seem worth it. I could find a source to show that Shakespeare’s plays were performed at the Globe Theatre, but it isn’t really necessary.
+
+None of these quite apply in this situation. The absence of citation is not due to forgetfulness, nor does it appeal to common knowledge. Rather it is there because it has a rhetorical advantage. The sole purpose of the ‘some’ is for them to hold a foolish opinion which acts as a counterpoint to the Deutsche Bank’s own, more sensible opinion. We are invited to share in the sensible opinion, and to revel in our superiority to the amorphous ‘some’ people who think the other, less sensible thing.
+
+Now, it is possible that the Deutsche Bank is simply ‘not naming names’, but for the argument to have the rhetorical effect intended, it is not actually necessary for the ‘some’ people to exist at all. In fact it’s almost more convenient if they don’t, because if they did, they might turn up and start explaining why it isn’t such a foolish opinion, thank you very much, and yours isn’t as sensible as you imagine.
+
+The Deutsche Bank made use of what I will call a *phantom opinion*.
+
+*Phantom opinions* are weak opinions, belonging to invisible entities, which an arguer uses in order to make their own opinion seem stronger by comparison. If ‘most’ people believe the phantom opinion, the arguer also gets to present their opinion as more original than it probably is, thereby puffing up their intellectual pride, and appealing to our own.
+{{% marginnote %}}     The usual rule applies however, that just because an argument fits the structure of a fallacy doesn’t necessarily mean it is a bad argument. One obvious case for this one: the ‘some people say’ approach can be used, not as a rhetorical ploy, but rather to avoid engaging directly with people who might bully, harass, and even threaten or harm the speaker if they were actually named. In which case, seriously, have at it, and stay safe.{{% /marginnote %}}
+All that said, I still consider that referring to fallacies by name is an intellectual danger zone. So if by any remote chance you make use of this term elsewhere, *please also explain what the actual problem is*. Inventing the term made the problem more legible for me, but using fallacy terms rather than full explanations can make us less legible to other people, and if we want to argue well, that is something to avoid wherblogdownever we can.
+
