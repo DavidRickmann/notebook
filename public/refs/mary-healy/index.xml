@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Healy on Lisa&#39;s Notebook</title>
+    <link>/refs/mary-healy/</link>
+    <description>Recent content in Mary Healy on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/mary-healy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drabble: Mary Healy on Children’s Friendships</title>
+      <link>/2020/06/29/drabble-mary-healy-on-childrens-friendships/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/29/drabble-mary-healy-on-childrens-friendships/</guid>
+      <description>In Should we take the friendships of children seriously?, Healy presents the three forms of Aristotelian friendship. Firstly: ‘friendships of utility’, which perform a function, such as ‘someone to play with’. Secondly: ‘friendships of pleasure’, deeply felt and yet often transitory: whilst you enjoy their presence, you don’t regret their absence. Finally there are ‘character friendships’: committed friendships where the flourishing of one friend is interconnected with the flourishing of the other.</description>
+    </item>
+    
+  </channel>
+</rss>
