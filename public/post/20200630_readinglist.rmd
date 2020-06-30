@@ -9,7 +9,8 @@ twitterImg: books.jpg
 
 
 
-As I said at the end of May, I plan for the last entry of every month to be a record of the reading I’ve done that month. This is my list for June.
+As I said at the end of May, I plan for the last entry of every month to be a record of the reading I’ve done that month. This is my list for June. 
+
 
 ## Novels
 
@@ -27,7 +28,7 @@ In which Jherek Carnelian continues to continue to be in love with Mrs. Amelia U
 
   
 
-In other words, I finished Dancers at the End of Time. [link to Reading Badly, or Goodhart’s Law]. The trilogy is better thought of as one giant novel, to be honest. It’s an old favourite of mine, and if you like SFF and you like Oscar Wilde, this is great stuff.
+In other words, I finished [*Dancers at the End of Time*](/2020/06/28/reading-badly-or-goodharts-law/). The trilogy is better thought of as one giant novel, to be honest. It’s an old favourite of mine, and if you like SFF and you like Oscar Wilde, this is great stuff.
 
   
 
@@ -39,7 +40,7 @@ This is a love affair between a (probably autistic) woman and the convenience st
 
 ### Little Fires Everywhere, Celeste Ng
 
-An artist, nomad, and single mother comes to stay in the Pleasant Suburb™ of Shaker Heights, and there are Events and Revelations which lead to questions about the nature of motherhood and the inadequacy of colourblindness. Honestly overall I very much sympathize with this review [https://www.theguardian.com/books/2017/nov/12/little-fires-everywhere-celeste-ng-review](https://www.theguardian.com/books/2017/nov/12/little-fires-everywhere-celeste-ng-review) ; It’s well crafted, it really should work, I couldn’t get into it, and ironically what it’s missing is a bit of fire.
+An artist, nomad, and single mother comes to stay in the Pleasant Suburb™ of Shaker Heights, and there are Events and Revelations which lead to questions about the nature of motherhood and the inadequacy of colourblindness. Honestly overall I very much sympathize with [this review](https://www.theguardian.com/books/2017/nov/12/little-fires-everywhere-celeste-ng-review) ; It’s well crafted, it really should work, I couldn’t get into it, and ironically what it’s missing is a bit of fire.
 
   
 
@@ -49,9 +50,9 @@ Following the life of Washington Black, an 11 year old slave, as he escapes a su
 
   
 
-## Plays (read with my drama group)
+## Plays
 
-  
+{{% marginnote %}} All these plays were performed via Zoom with my play-reading group.{{% /marginnote %}} 
 
 ### The Real Inspector Hound, Tom Stoppard
 
