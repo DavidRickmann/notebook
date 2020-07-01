@@ -1,15 +1,14 @@
----  
-title: "How Not to Think like Sherlock Holmes [Part One]"
-author: "Lisa McNulty"  
-date: "2020-05-08"  
-series:  
-- "How Not to Think Like Sherlock Holmes"
-tags:  
-- "Sherlock Holmes"  
-refs:  
-- "Arthur Conan Doyle" 
 ---
-
+title: How Not to Think like Sherlock Holmes [Part One] 
+author: "Lisa McNulty"  
+date: "2020-05-08"
+series:
+- "How Not to Think Like Sherlock Holmes"
+tags:
+- "Sherlock Holmes"
+refs:
+- "Arthur Conan Doyle"
+---
 
 
 

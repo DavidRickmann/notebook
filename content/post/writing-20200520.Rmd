@@ -1,4 +1,4 @@
----  
+---
 title: "Elmo, the Cookie Monster, and Epistemic Injustice"
 author: "Lisa McNulty"  
 date: "2020-05-20"  

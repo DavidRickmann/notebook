@@ -1,19 +1,16 @@
----  
+---
 title: "How Not to Think like Sherlock Holmes [Part Three]"
-author: "Lisa McNulty"  
-date: "2020-05-22"  
-series:  
-- "How Not to Think Like Sherlock Holmes"
-tags:
-refs:  
+author: "Lisa McNulty"
+date: "2020-05-22"
+series:
+  - "How Not to Think Like Sherlock Holmes"
+refs:
 - "Arthur Conan Doyle"
 - "Douglas Adams"
 - "Aristotle"
 - "Susan Haack"
 - "Thales"
-
 ---
-
 
 
 

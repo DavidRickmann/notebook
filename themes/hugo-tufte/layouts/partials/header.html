@@ -1,7 +1,7 @@
 {{ partial "doctype.html" . }}
 <head>
 <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/index.xml" />  
-{{ if eq .URL "/" }}
+{{ if eq .Permalink "/" }}
 <title>{{ .Site.Title }}</title>
 <meta property="og:title" content="{{ .Site.Title }}">
 <meta property="og:type" content="website">

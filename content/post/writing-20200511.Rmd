@@ -1,7 +1,7 @@
----  
-title: "Thoughts on a Birthday"  
-author: "Lisa McNulty"  
-date: "2020-05-11"  
+---
+title: "Thoughts on a Birthday"
+author: "Lisa McNulty"
+date: "2020-05-11"
 ---
 
   
