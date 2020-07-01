@@ -8,9 +8,12 @@
 {{ partial "toc.html" . }}
 <section>{{ .Content }}</section>
 <section>
+  {{ partial "related.html" . }}
   {{ partial "disqus.html" . }}
   {{ partial "footer.html" . }}
 </section>
+
+
 </article>
 </div>
 </body>

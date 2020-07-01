@@ -4,6 +4,8 @@ author: "Lisa McNulty"
 date: "2020-06-30"
 series:
   - "Reading"
+categories: 
+  - "Self Improvement"
 twitterImg: books.jpg
 description: "Things that I read in June"
 ---

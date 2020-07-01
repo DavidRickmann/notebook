@@ -2,6 +2,8 @@
 title: The Article-A-Day Challenge 
 author: "Lisa McNulty"  
 date: "2020-07-01"
+categories: 
+  - "Self Improvement"
 twitterImg: papers.jpg
 description: "intimidating as hell, and therefore it’s a very good idea"
 ---

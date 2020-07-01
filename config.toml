@@ -20,6 +20,32 @@ GoogleAnalytics = "UA-166245943-1"
   series = "series"
   tag = "tags"
 
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+     [[related.indices]]
+        name = "categories"
+        weight = 90
+    
+    [[related.indices]]
+        name = "series"
+        weight = 100
+
+    [[related.indices]]
+        name = "refs"
+        weight = 80
+        
+    [[related.indices]]
+        name = "tags"
+        weight = 50
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+
 [params]
   subtitle = "Writing Exercises by Lisa McNulty."
   copyrightHolder = "Lisa McNulty"
