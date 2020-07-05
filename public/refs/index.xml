@@ -5,10 +5,19 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Immanuel Kant</title>
+      <link>/refs/immanuel-kant/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/immanuel-kant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mary Healy</title>
@@ -340,15 +349,6 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/jean-paul-sartre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Immanuel Kant</title>
-      <link>/refs/immanuel-kant/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/immanuel-kant/</guid>
       <description></description>
     </item>
     
