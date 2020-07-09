@@ -1,0 +1,82 @@
+---
+title: Harry G. Frankfurt’s ‘On Bullshit,’ and the Epistemic Standards of Philosophy
+slug: "OnBullshit"
+author: "Lisa McNulty"
+date: "2020-07-09"
+series:
+tags: 
+refs:
+- "Harry G Frankfurt"
+- "Lawrence Krauss"
+- "Karl Popper"
+- "Ross Andersen"
+- "Bertrand Russell"
+twitterImg: bull.jpg
+description: "the only appropriate response is “Bullshit."
+---
+
+
+
+Ever wake up in the morning having an imaginary intellectual argument with an imaginary person in which you are definitely right? This is a very literal version of ‘[phantom opinions](/2020/06/22/phantom-opinions/)’ and it happens to me all the time. Most of my greatest intellectual successes occur in this world. I am astonishingly convincing. 
+
+Let’s test one of them here to see if it actually works, though. 
+
+So. Philosophy sometimes takes a battering from the scientific/rationalist/new-atheist crowd for, essentially, not being science. Here’s the physicist Lawrence Krauss on the subject of philosophers: 
+
+
+>    “Philosophy is a field that, unfortunately, reminds me of that old Woody Allen joke, ‘those that can’t do, teach, and those that can’t teach, teach gym.' And the worst part of philosophy is the philosophy of science; the only people, as far as I can tell, that read work by philosophers of science  are other philosophers of science. It has no impact on physics what so ever. ... they have every right to feel threatened, because science progresses  and philosophy doesn’t.”
+
+I mean, rude. 
+
+But let’s examine it a bit. For the moment, I’ll take ‘science progresses’ to mean that the stock of scientific knowledge increases over time. Klaus is saying that this doesn’t happen with philosophy: philosophy doesn’t accumulate knowledge over time. Certainly more philosophical ideas emerge - I’m sure even Klauss wouldn’t deny that - but these don’t count as ‘knowing’ something. 
+
+So what is scientific knowledge? One possible answer to that might be a scientific claim which is proven to be true. Let us for the moment accept that it is somewhere between difficult and impossible to prove philosophical claims to be true.  However, it is also pretty damn tricky to prove universal scientific claims to be true without observing the entire universe. Karl Popper, aware of this, shifted the focus to falsifiability. A claim is scientific, says Popper, if it is falsifiable. If we can state what would prove the claim wrong, and then do our very best to prove it wrong, and fail to prove it wrong, then it is reasonable to say that we know it to be right. (Of course, this kind of knowledge doesn’t amount to certainty, as our claim might be disproven or at least refined at some later point).  A classic example is that the statement ‘all swans are white’ is a scientific claim because it can be falsified (and eventually was) by finding a black swan.
+
+If philosophical claims don’t work this way - if there is nothing that counts as proving them wrong - then according to Karl Popper, they are unscientific. This would mean that they cannot progress in the manner that science does: proving one theory wrong and moving on to another, more plausible or detailed theory. 
+
+(It’s worth saying that I am aware of the limitations of Popper’s falsifiability requirement for science. Plenty of stuff that is obviously science is not falsifiable. But it’s a useful framework for this piece, so I’ll stick with it for now).  
+
+So are philosophical claims falsifiable, or not? If not, are there other epistemic standards that philosophical claims might be held to, and what might they be?
+
+It is nice to play with this idea with an article from outside of the philosophy of science, because (as we see with Klauss) the instinct to criticise philosophy for not being science is inevitably magnified when it is doing something science-adjacent which might be seen as encroaching on the scientist’s territory (it doesn’t encroach, any more than history of science does, but never mind.) 
+
+I’ve picked Frankfurt’s ‘On Bullshit’. Initially this was with little justification other than I like it and it serves well to explain this idea, but it turned out to fit very well. 
+
+The core of the paper is that Frankfurt is offering a distinction between ‘lying’ and ‘bullshitting’, as follows: 
+
+
+>    It is impossible for someone to lie unless he thinks he knows the truth. Producing bullshit requires no such conviction. A person who lies is thereby responding to the truth, and he is to that extent respectful of it. When an honest man speaks, he says only what he believes to be true; and for the liar, it is correspondingly indispensable that he considers his statements to be false. For the bullshitter, however, all these bets are off: he is neither on the side of the true nor on the side of the false. His eye is not on the facts at all, as the eyes of the honest man and of the liar are, except insofar as they may be pertinent to his interest in getting away with what he says. He does not care whether the things he says describe reality correctly. He just picks them out, or makes them up, to suit his purpose.
+
+Bullshitting, Frankfurt maintains, is therefore _more epistemically dangerous_ than lying, and the proliferation of bullshit more disturbing. Whilst a liar may succeed in their specific goal of getting you to believe something that isn’t true, a habitual bullshitter (and a culture which encourages and empowers them) erodes your sense of truth and falsity altogether. He also explores the idea that the bullshitter is in some sense trying to get away with shoddy work, but paradoxically may put extraordinary skill and effort into doing so.
+
+This is a very interesting and highly influential paper. Admittedly it’s fame may be partly due to the shock value of the title, but that doesn’t detract from the fact that it is a good and useful bit of philosophy. 
+
+Are his claims falsifiable? I think the answer here is ‘maybe, but not on purpose.’ He’s not gathering and analysing data to back up his account, although he does draw on a couple of anecdotes to illustrate it; he’s not making bold conjectures and trying to prove them wrong. Possibly his claims are falsifiable in the trivial sense that they have to map onto the world in some way, they could fail to do that, and with sufficient attention we would notice if they did. If we did a sufficiently in-depth analysis of the behaviour of the wider group of, let’s say, ‘deceptive people’, and were unable to distinguish between the behaviour pattern of ‘liars’ from that of ‘bullshitters’, then perhaps Frankfurt’s theory would be falsified. But it’s certainly not deliberately set up with falsifiability in mind. Philosophers wouldn’t expect that of him. 
+
+Here’s one way of illustrating that: I confess that even if Frankfurt’s concepts were falsified in the way described here, I would probably still find them useful. I might use them in a more limited way, distinguishing individual speech acts as ‘lying’ as opposed to ‘bullshitting’, say, or talking about organisations that encourage one or the other. But I would probably still use them, and I suspect that many other people would, too. I also think that there are other powerful philosophical ideas which have less of a claim to falsifiability than Frankfurt’s do. So even if his claims happen to be falsifiable, that doesn’t seem to be the appropriate epistemic standard to hold the claims to. 
+
+But if we accept this - Frankfurt isn’t doing science badly, rather he’s not doing science at all -  then what exactly _is_ he doing? And what counts as doing it well?  Popper never regarded the category ‘non-science’ as the equivalent of ‘intellectually flabby’ or ‘useless’; there are other standards one might aim at.  If he isn’t working to the epistemic standard of falsifiability, what standards is he working to? 
+
+Perhaps what he is doing is defining words with a certain amount of precision. He is after all offering a definition of a ‘liar’ and distinguishing it from a definition of a ‘bullshitter’, a term which hasn’t had this level of intellectual attention previously, and so he is basically doing linguistic work. Perhaps we can say that he is successful under this interpretation if he is offering the correct definition of a ‘bullshitter’. Or, perhaps he is in some sense coining a useful term, and he is successful if this is how the term later comes to be used. 
+
+My answer to this is ‘kinda, but this is still missing the point’. Certainly if his use of the term ‘bullshitter’ bore no resemblance to the way that the word is actually used, then the paper would be both weak and annoying, so that standard does have to be met. But merely offering a correct definition doesn’t merit the length and detail of the piece.  He’s not quite coining a term, either. I’m not sure if the term ‘bullshitter’ was in previous parlance - I expect so - but even if it wasn’t, ‘bullshit’ was, and so the term clearly pertains to ‘one who bullshits’, so even if he coined the term, this doesn’t in and of itself seem to add much value. 
+
+We get more of an insight if we compare what Frankfurt is doing to what Popper is doing. The curious thing about the statement ‘all scientific claims are falsifiable’ is that it is not itself falsifiable. And this isn’t a failure! It’s not _trying_ to be falsifiable. It’s not necessarily even trying to be _true_, or not exactly. Rather, it’s trying to aid us in the distinction between scientific thought and non-scientific thought. This is useful because it enables us to make value judgments about whether a particular kind of investigation ought to be held to scientific standards or not.  The target of Popper’s ire was pseudoscience: the unfalsifiable claims of Freudian psychoanalysis; or the Marxist who (in Popper’s view) is clinging to ideas proven wrong by the continued absence of a long-predicted revolution. His framework enabled him to articulate what he believed was going wrong in those fields. 
+
+Popper’s philosophy of science isn’t trying to meet the epistemic standards that it’s meeting for science. Instead it’s providing us with a framework to think in. It’s value arises from how much more clearly you can think with the framework in place, what useful distinctions you can draw, how this affects your understanding of the world more broadly.  Frankfurt, too, is providing a framework. He’s not really giving us new information, but rather, a way to arrange existing information in a way which will enable us to understand it better. He’s clarifying concepts, in a way that will help us to classify and more deeply understand our encounters with lies and bullshit later on. 
+
+Evaluating Frankfurt, then, isn’t really a matter of evaluating the truth or falsity of the statement ‘liars and bullshitters are different’. Instead, it’s a matter of evaluating the degree to which his concepts help us to understand our experiences of deceitfulness, whether they give us tools with which to recognise it, draw it out, maybe even stamp it out. It’s not a matter of ‘are these statements true’ but ‘are these concepts good to think with’? 
+
+And one of the things we might use them to think about is in fact_ science_. And scientists. And one physicist in particular.
+
+Here’s an extract from Massimo Pigliucci’s blog, Rationally Speaking, which draws on an interview Klass did with Ross Andersen from the Atlantic: ([http://rationallyspeaking.blogspot.com/2012/04/lawrence-krauss-another-physicist-with.html](http://rationallyspeaking.blogspot.com/2012/04/lawrence-krauss-another-physicist-with.html))
+
+
+>    Andersen, at this point in the interview, must have been a bit fed up with Krauss’ ego, so he pointed out that actually philosophers have contributed to a number of science or science-related fields, and mentions computer science and its intimate connection with logic. He even names Bertrand Russell as a pivotal figure in this context. Ah, says Krauss, but really, logic is a branch of mathematics (it’s actually the other way around), so philosophy can’t get credit. And at any rate, Russell was a mathematician (actually, he was largely a logician with an interest in the philosophy of math). Krauss also claims that Wittgenstein was “very mathematical,” as if it is somehow surprising to find a philosopher who is conversant in logic and math...
+
+
+>    Andersen isn’t moved and insists: “certainly philosophers like John Rawls have been immensely influential in fields like political science and public policy. Do you view those as legitimate achievements?” And here Krauss is forced to reveal his anti-intellectualism, and even — if you allow me gentle reader — his intellectual dishonesty: “Well, yeah, I mean, look I was being provocative, as I tend to do every now and then in order to get people's attention.” Oh really? This from someone who later on in the same interview claims that “if you’re writing for the public, the one thing you can’t do is overstate your claim, because people are going to believe you.” Indeed people are going to believe you, Prof. Krauss, and that’s a shame, at least when you talk about philosophy.
+
+Here we find a use for Frankfurt’s concepts in ‘On Bullshit’. I’m not sure that it would provide a sufficient account of events to say that Laurence Krass was lying here. It may not even really be the case that he was lying: perhaps he genuinely thinks of Bertrand Russell as a mathematician first and foremost, although this isn’t actually the case. But the real issue is that truth seems to be basically irrelevant to his goals. If Russell is a mathematician, fine; if he isn’t but Klauss can persuade his audience of that during the course of the interview and thus appear correct; also fine. His attention is not on the truth but on his own plausibility, on getting and keeping attention. Truth and falsehood are equally powerful tools at his disposal for achieving that goal. 
+
+All of which is to say that when Krauss tells us that “science progresses and philosophy doesn’t”, the only appropriate response is “Bullshit.”. 

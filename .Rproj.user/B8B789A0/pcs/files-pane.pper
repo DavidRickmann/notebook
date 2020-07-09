@@ -1,9 +1,9 @@
 {
-    "path": "~/Projects/lisanotes/content/post",
+    "path": "~/Projects/lisanotes/static",
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         },
         {
             "columnIndex": 1,

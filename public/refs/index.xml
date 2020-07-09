@@ -5,10 +5,55 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bertrand Russell</title>
+      <link>/refs/bertrand-russell/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/bertrand-russell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harry G Frankfurt</title>
+      <link>/refs/harry-g-frankfurt/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/harry-g-frankfurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karl Popper</title>
+      <link>/refs/karl-popper/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/karl-popper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawrence Krauss</title>
+      <link>/refs/lawrence-krauss/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/lawrence-krauss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ross Andersen</title>
+      <link>/refs/ross-andersen/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/ross-andersen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Immanuel Kant</title>
@@ -295,15 +340,6 @@
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/helen-longino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bertrand Russell</title>
-      <link>/refs/bertrand-russell/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/bertrand-russell/</guid>
       <description></description>
     </item>
     
