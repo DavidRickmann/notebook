@@ -5,10 +5,28 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Harry G Frankfurt</title>
+      <link>/refs/harry-g-frankfurt/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/harry-g-frankfurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivo Weaver</title>
+      <link>/refs/ivo-weaver/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/ivo-weaver/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bertrand Russell</title>
@@ -16,15 +34,6 @@
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/bertrand-russell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harry G Frankfurt</title>
-      <link>/refs/harry-g-frankfurt/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/harry-g-frankfurt/</guid>
       <description></description>
     </item>
     

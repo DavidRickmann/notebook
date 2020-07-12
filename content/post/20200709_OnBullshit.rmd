@@ -5,6 +5,7 @@ author: "Lisa McNulty"
 date: "2020-07-09"
 series:
 tags: 
+- "Bullshit"
 refs:
 - "Harry G Frankfurt"
 - "Lawrence Krauss"
