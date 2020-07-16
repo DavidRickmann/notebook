@@ -1,0 +1,49 @@
+---
+title: How Not to Think like Sherlock Holmes [Part Five]
+author: "Lisa McNulty"  
+date: "2020-07-15"  
+series:  
+- "How Not to Think Like Sherlock Holmes"
+tags:
+refs:  
+- "Arthur Conan Doyle"
+- "Douglas Adams"
+twitterImg: dirklock.jpg
+description: "The impossible often has a kind of integrity to it which the merely improbable lacks."
+
+---
+
+
+
+In Part Three of this series, I illustrated the problems with the classic Holmesian claim that ‘when you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.’ Douglas Adams' position that we might in fact be more justified in believing the ‘impossible’ than the extremely improbable, rests on the idea that to believe the ‘impossible’ is simply to believe that there is something we don’t know about, that there are layers to this that don’t meet the eye. In other words, it is to suppose the existence of an unknown unknown. 
+
+[Unknown unknowns](/2020/06/18/unknown-knowns/) can be thought of as ‘answers to the questions that we haven’t even thought to ask yet.’ Imagine (or remember) a scenario where some new topic is explained to you at a million miles an hour, by someone who ends their monologue with ‘Right! Any questions?’ The silence of their audience can’t be taken as a sign of comprehension. It’s not that all their questions have been answered. Rather, they have absorbed too little of the topic to form meaningful questions in the first place. 
+
+In this scenario, though, at least you are _aware_ that you aren’t able to form meaningful questions. You’ve been exposed to the topic, so you are in that sense better off epistemically than you were before. You know that there are important questions to ask about it, you just aren’t sure what they are. 
+
+{{% marginnote %}}    
+(Yes, I’m distinguishing between _known_ unknown unknowns and _unknown_ unknown unknowns. I promise not to regress any further.) 
+{{% /marginnote %}}
+
+In this situation, you have the option of confronting the speaker, and trying to get them to explain the topic better. Alternatively, you might find someone else, whom you trust, and is better at communicating the ideas to you. Or, if you’d rather not do that epistemic work yourself for whatever reason, you could just ask them to recommend a course of action based on their understanding, rather than attempting to improve your own. Sometimes that’s just more practical. 
+
+That person may not necessarily know what the _answers_ are, but they know the right questions to ask. It’s the difference between a car owner not knowing what’s wrong with the engine and the mechanic not knowing (yet). 
+
+So to sum up: Where you have an unknown unknown, you could be in several different situations:
+
+
+
+*   you may be aware you don’t know the right questions; or you may not. 
+*   you may be aware of who to ask (or how to find out who to ask); or you may not.
+*   you may be willing to recognise the authority of those people; or you may not.
+
+Let’s explore each of these in turn, in relation to Sherlock Holmes.  
+
+
+>“Well, I have a trade of my own. **_I suppose I am the only one in the world_**. I'm a consulting detective, if you can understand what that is. Here in London we have lots of Government detectives and lots of private ones. **_When these fellows are at fault they come to me, and I manage to put them on the right scent._** They lay all the evidence before me, and I am generally able, by the help of my knowledge of the history of crime, to set them straight. There is a strong family resemblance about misdeeds, and if you have all the details of a thousand at your finger ends, it is odd if you can't unravel the thousand and first. Lestrade is a well-known detective. **_He got himself into a fog recently over a forgery case, and that was what brought him here’_** (A Study in Scarlet, italics mine)
+
+The dynamic that Holmes describes here is very much one-directional. Other detectives get stuck, and they come to Holmes. _He_ does not go to _them_. Of course, they will have information about the particular cases which Holmes does not yet have; but once Holmes does have that information, he will be able to ‘put them on the right scent’; because he will know the right questions to ask. He may not have the answers to those questions, but he considers himself capable of finding them out.
+
+Now it’s true that Holmes has such excellent knowledge of his specialism that it is likely that he will quickly have to hand many of the right questions to ask, and lines of enquiry to take. This is all to the good. However. There is little sense that Holmes in any way acknowledges that fellow detectives might have thought of relevant questions that he has not thought of himself yet. That would take a greater degree of respect for his colleagues than we can generally expect of him. Also, since he is intimidating, his colleagues are not highly motivated to volunteer those questions. Therefore Holmes _may not be aware that he doesn’t know all the right questions_. In a sense, he is _aware of who to ask_ - he seems to know many of the detectives in London, both Government and private. But he is unlikely to do so, because he doesn’t respect them intellectually. He sees them as the people who ‘get into a fog’ and come to him for help. He doesn’t _recognise their authority_. 
+
+It’s worth clarifying that it’s not necessary for Holmes to regard them as altogether his intellectual equals in order to recognise their authority. It is only necessary that he regard them as sources of _knowledge_ rather than merely _information_; that he does not regard the interpretation of this information, it’s transformation into knowledge, as a responsibility belonging solely to himself. Even if Sherlock almost always finds himself the brightest person in the room, others may nonetheless shine light on the answers to questions he hasn’t even thought of yet, and could help him venture a little further into the unknown unknown. 
