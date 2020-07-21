@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lou Marinoff on Lisa&#39;s Notebook</title>
+    <link>/refs/lou-marinoff/</link>
+    <description>Recent content in Lou Marinoff on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/lou-marinoff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Philosophy and Therapy</title>
+      <link>/2020/07/21/philosophy-and-therapy/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/21/philosophy-and-therapy/</guid>
+      <description>I find the relationship between philosophy and therapy fascinating, problematic, and potentially dangerous. First let’s unpack what the relationship is, and I’ll show you what I mean.
+Firstly, and least controversially in my view, there are qualified therapists who openly use philosophy as part of their toolkit. The most typical example of this is existentialist psychotherapy, which draws on existentialist philosophical texts, and frames client’s experiences around ‘existential anxiety’ about freedom and responsibility, death, isolation, and meaning/meaninglessness .</description>
+    </item>
+    
+  </channel>
+</rss>
