@@ -167,3 +167,5 @@ Overall, then, we can see that this piece of reasoning is deductively sound, and
 
 We’ve picked just a small piece of Sherlock’s reasoning in this scene. If you like, pick another piece and put it through the same process. There are certainly a lot of issues to unpack. The whole scene, however, has Sherlock giving an extraordinarily persuasive argument. This is in large part due to who Sherlock is and how he speaks, rather than the content of the argument itself. The next part of this series will explore that, focusing on persuasiveness and epistemic injustice.
 
+---
+Previous &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [All](/series/how-not-to-think-like-sherlock-holmes/)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       [Next](/2020/05/09/how-not-to-think-like-sherlock-holmes-part-two/)
