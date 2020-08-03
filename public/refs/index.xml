@@ -5,10 +5,37 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arthur Conan Doyle</title>
+      <link>/refs/arthur-conan-doyle/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/arthur-conan-doyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brendan Mahan</title>
+      <link>/refs/brendan-mahan/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/brendan-mahan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dylan Moran</title>
+      <link>/refs/dylan-moran/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/dylan-moran/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lou Marinoff</title>
@@ -34,15 +61,6 @@
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/david-maciver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arthur Conan Doyle</title>
-      <link>/refs/arthur-conan-doyle/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/arthur-conan-doyle/</guid>
       <description></description>
     </item>
     
