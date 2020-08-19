@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frederick Treves on Lisa&#39;s Notebook</title>
+    <link>/refs/frederick-treves/</link>
+    <description>Recent content in Frederick Treves on Lisa&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/refs/frederick-treves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joseph Merrick, and the Privilege of Telling Your Own Story</title>
+      <link>/2020/08/19/joseph-merrick-and-the-privilege-of-telling-your-own-story/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/19/joseph-merrick-and-the-privilege-of-telling-your-own-story/</guid>
+      <description>I met Joseph Merrick the way most people do, which is via the David Lynch film adaptation The Elephant Man; in my case closely followed by reading the original text it was based on, namely _The Elephant Man and Other Reminiscences _by Dr. Frederick Treves. The film adaptation follows Treves’ account relatively faithfully in spirit, although it does swap around the order of events for dramatic effect, and give Merrick a far more comprehensible speaking voice than he actually had (for understandable practical reasons) and with it an inexplicably middle-class accent.</description>
+    </item>
+    
+  </channel>
+</rss>
