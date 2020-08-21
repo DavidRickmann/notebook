@@ -1,0 +1,84 @@
+---
+title: "The Contrasting Epistemic Approaches of Thales of Miletus and the Insane Clown Posse"
+author: "Lisa McNulty"
+date: "2020-08-20"
+series:
+categories: 
+refs:
+  - "Thales of Miletus"
+  - "Susan Haack"
+  - "Violent J"
+  - "Shaggy 2 Dope"
+  - "Karl Popper"
+twitterImg: icp.jpg
+description: "If magic is all we've ever known then it's easy to miss what really goes on"
+
+---
+
+
+
+I’ve spoken before about falsificationism and foundherentism, but I’ve recently noticed a rather lovely contrast between the epistemic approaches of Thales of Miletus and the Insane Clown Posse which illustrates both pretty well. 
+
+So to start, here’s a brief refresher. Falsificationism, as put forward by Karl Popper, is the idea that science doesn’t advance by conjectures being proven correct, but by them being falsified; or else by our best attempts to falsify them failing, at which point we can be justified in treating the conjectures as true - although we haven’t _proven_ them to be true, as they may later turn out to be false. This is Popper’s solution to the Problem of Induction. 
+
+Foundherentism, from Susan Haack, is a hybrid between coherentism and foundationalism. Coherentism states that our beliefs are justified if they are mutually supporting: that new belief X is justified if it fits in with all our existing beliefs and makes coherent sense. Foundationalism points out that you can have a coherent story which makes perfect sense and is completely wrong, and that therefore our beliefs need to have _foundations_. In the strongest sense, foundational beliefs are supposed to be ‘undoubtable’ beliefs, but for our purposes we can think of them as ‘based on direct empirical evidence’. 
+
+Susan Haack thinks that these approaches are both wrong. Rather, the process of justification of scientific beliefs is akin to completing a crossword puzzle. Suppose you have a crossword puzzle which is mostly filled out. You are reading a new clue and have interpreted an answer. 
+
+However, whilst the answer fits the clue and the number of spaces, it doesn’t fit with the letters already filled in. If the answer you’ve come up with for this clue is correct, then there must be a lot of wrong answers in the crossword puzzle. 
+
+What do you do? 
+
+Well according to Haack, you start by re-reading the clue and seeing if there is any other possible interpretation of the clue. It’s more likely that you’ve made one mistake than dozens, and it’s quicker to check. 
+
+However, if you find that there is no other plausible interpretation of the clue, then you then sigh and start checking the others. 
+
+In other words: if the new piece of evidence doesn’t cohere with what you already know, you know that something is wrong; but you don’t know what. It might be your interpretation of that evidence, or it might be the whole system of thinking, and you have to be prepared to doubt both. 
+
+So, to Thales. He had an overall theory that it is impossible for an inanimate object to move another inanimate object. This is backed up by countless examples of inanimate objects not moving each other, and seems to be reasonably justified. Then he encountered a counter-example: lodestones, or what we call ‘magnets’. They seem to contradict the overall theory. 
+
+Now according to foundherentism the first thing to do is to check if this is an anomaly of a misinterpretation of events. Thales, are you sure that the magnets are moving iron? How much have you been drinking? Is this an error? 
+
+Turns out, no, it’s not an error, there are plenty of magnets around and they all behave the same way. 
+
+So at this point it’s reasonable to consider that there is something wrong with the overall theory. Thales then adjusts his theory, and concludes that inanimate objects are imbued with spirit/gods. Now of course we don’t think of this as a particularly scientific theory today, but it nonetheless advances like a scientific theory. 
+
+Compare and contrast with the Insane Clown Posse, and this short extract from their song ‘Miracles’
+
+
+>    We got a theory
+>
+>    You see Mike, we got a theory
+>
+>    About magic and miracles (that's right, that's right)
+>
+>    If magic is all we've ever known
+>
+>    Then it's easy to miss what really goes on
+>
+>    But I've seen miracles in every way
+>
+>    And I see miracles everyday...
+>
+>    ...Water, fire, air and dirt
+>
+>    Fucking magnets, how do they work?
+>
+>    And I don't wanna talk to a scientist
+>
+>    Y'all motherfuckers lying, and getting me pissed.
+
+Violent J and Shaggy 2 Dope’s overall theory is that the world is full of miracles. If we interpret ‘miracles’ in the stronger sense of ‘supernatural’ rather than the milder sense of ‘lovely thing to happen’ (and the overall song, whilst ambiguous, seems to lend itself to the stronger interpretation), then what we have here is a scientific theory of sorts, that our everyday experiences are only explicable by reference to the supernatural. 
+
+In defence of this they draw on a particular observation: magnets, and the fact that they themselves are unable to explain how they work. From this they conclude that magnets are miraculous. The pair are aware, however, that an alternative explanation is provided by more conventional scientists. 
+
+The foundationalist response to this situation would be: OK. What is this possible interpretation of the clue? Does it make more sense than our own interpretation? Do we have a conflict with the overall theory here? Which is gonna give: this interpretation of the clue, or the overall theory? 
+
+Instead, they reject the interpretation unreflectively. They ‘don’t wanna talk to a scientist’, because the scientific interpretation of events messes with their overall theory, and thus is ‘getting [them] pissed’, and therefore they take the comfortable position of concluding that ‘y’all motherfuckers are lying’. 
+
+Thus I reach the conclusion that Thales of Miletus is a superior philosopher and scientist to the Insane Clown Posse. You’re welcome.
+
+
+![Joseph Utsler and Joseph Bruce](\img\icp.jpg)
+
+

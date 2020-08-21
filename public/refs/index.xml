@@ -5,10 +5,55 @@
     <link>/refs/</link>
     <description>Recent content in Refs on Lisa&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/refs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Karl Popper</title>
+      <link>/refs/karl-popper/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/karl-popper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaggy 2 Dope</title>
+      <link>/refs/shaggy-2-dope/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/shaggy-2-dope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan Haack</title>
+      <link>/refs/susan-haack/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/susan-haack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thales of Miletus</title>
+      <link>/refs/thales-of-miletus/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/thales-of-miletus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violent J</title>
+      <link>/refs/violent-j/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/refs/violent-j/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>David Lynch</title>
@@ -173,15 +218,6 @@
     </item>
     
     <item>
-      <title>Karl Popper</title>
-      <link>/refs/karl-popper/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/karl-popper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lawrence Krauss</title>
       <link>/refs/lawrence-krauss/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
@@ -250,15 +286,6 @@
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/john-locke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Susan Haack</title>
-      <link>/refs/susan-haack/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/susan-haack/</guid>
       <description></description>
     </item>
     
@@ -412,15 +439,6 @@
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/refs/aristotle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thales</title>
-      <link>/refs/thales/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/refs/thales/</guid>
       <description></description>
     </item>
     
