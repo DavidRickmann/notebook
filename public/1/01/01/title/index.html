@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/72f8a749d2451d77a8f6b6c93/275d0b8ff3f2e1309ce086b30.js");</script>
+<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/index.xml" />  
+
+<title>Title - Lisa&#39;s Notebook</title>
+<meta property="og:title" content="Title - Lisa&#39;s Notebook">
+<meta property="og:type" content="article">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="https://http://notebook.lisamcnulty.co.uk/img/" >
+  
+  
+
+<meta property="description" content="Article posted by [John Zobolas](https://github.com/bblodfon), on Monday, January 1nd, 0001">
+<meta property="og:description" content="Article posted by [John Zobolas](https://github.com/bblodfon), on Monday, January 1nd, 0001">
+
+
+<meta name="twitter:creator" content="">
+<meta name="twitter:site" content="">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Lisa&#39;s Notebook">
+<meta name="generator" content="Hugo 0.69.2" />
+
+  
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="https://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+
+    <link rel="stylesheet" href="https://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="/css/tufte.css">
+<link rel="stylesheet" href="/css/hugo-tufte.css">
+<link rel="stylesheet" href="/css/hugo-tufte-override.css">
+
+</head>
+
+
+<body>
+<div id="layout" class="pure-g">
+<article class="pure-u-1">
+<header class="brand">
+  <h1>Lisa&#39;s Notebook</h1>
+  <h2>Writing Exercises by Lisa McNulty.</h2>
+  <nav class="menu">
+    <ul>
+    
+        <li><a href="/"><i class='fa fa-home fa-lg'></i> Home</a></li>
+    
+        <li><a href="/post"><i class='fa fa-book fa-lg'></i> Posts</a></li>
+    
+        <li><a href="/series"><i class='fa fa-book fa-lg'></i> Series</a></li>
+    
+        <li><a href="/tags"><i class='fa fa-tags fa-lg'></i> Tags</a></li>
+    
+        <li><a href="/refs"><i class='fa fa-tags fa-lg'></i> Writers</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+<section>
+<h1 class="content-title">
+  
+  <a href="/1/01/01/title/">Title</a>
+  
+</h1>
+
+
+
+  <span class="content-meta">
+    
+       <i class="fa fa-user">&nbsp;</i><span class="author">
+         &nbsp;[John Zobolas](https://github.com/bblodfon)</span> <br>
+    
+
+
+    
+      <i class="fa fa-calendar"></i>
+      &nbsp;Jan 1, 0001
+    
+
+    
+      &nbsp;<i class="fa fa-clock-o"></i>
+      &nbsp;3 min read
+    
+
+    
+    
+        
+  </span>
+    
+    
+  </span>
+
+
+</section>
+
+
+
+<section>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery.min.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core/js/jquery.dataTables.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+
+
+<div id="intro" class="section level1 unnumbered">
+<h1>Intro</h1>
+<p>Template based on <a href="https://bookdown.org/yihui/rmarkdown/">Rmarkdown</a>, using the <a href="https://bootswatch.com/united/">united HTML theme</a>.</p>
+<p>Refer to a <a href="#sub-analysis">sub section</a>.
+Citing an article <span class="citation">(Adams <a href="#ref-article" role="doc-biblioref">1993</a>)</span>.
+Refer to section <a href="#analysis">Analysis</a>.</p>
+</div>
+<div id="input" class="section level1 unnumbered">
+<h1>Input</h1>
+<p>Loading libraries:</p>
+<pre class="r"><code>library(DT)
+library(ggplot2)
+library(xfun)</code></pre>
+</div>
+<div id="analysis" class="section level1 unnumbered">
+<h1>Analysis</h1>
+<p><code>Vestibulum</code> imperdiet<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, ex vel sodales facilisis, nibh tellus imperdiet massa, sit amet scelerisque orci velit vel tellus. Ut consequat justo tincidunt porttitor varius. Suspendisse erat ipsum, feugiat vitae rhoncus non, molestie ac purus. Morbi aliquet, elit eget blandit suscipit, est lacus facilisis turpis, nec fermentum nunc felis et lorem.</p>
+<div id="Table1">
+<p>A nice table example:</p>
+</div>
+<pre class="r"><code>DT::datatable(mtcars, options = list(pageLength = 3))</code></pre>
+<div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"filter":"none","data":[["Mazda RX4","Mazda RX4 Wag","Datsun 710","Hornet 4 Drive","Hornet Sportabout","Valiant","Duster 360","Merc 240D","Merc 230","Merc 280","Merc 280C","Merc 450SE","Merc 450SL","Merc 450SLC","Cadillac Fleetwood","Lincoln Continental","Chrysler Imperial","Fiat 128","Honda Civic","Toyota Corolla","Toyota Corona","Dodge Challenger","AMC Javelin","Camaro Z28","Pontiac Firebird","Fiat X1-9","Porsche 914-2","Lotus Europa","Ford Pantera L","Ferrari Dino","Maserati Bora","Volvo 142E"],[21,21,22.8,21.4,18.7,18.1,14.3,24.4,22.8,19.2,17.8,16.4,17.3,15.2,10.4,10.4,14.7,32.4,30.4,33.9,21.5,15.5,15.2,13.3,19.2,27.3,26,30.4,15.8,19.7,15,21.4],[6,6,4,6,8,6,8,4,4,6,6,8,8,8,8,8,8,4,4,4,4,8,8,8,8,4,4,4,8,6,8,4],[160,160,108,258,360,225,360,146.7,140.8,167.6,167.6,275.8,275.8,275.8,472,460,440,78.7,75.7,71.1,120.1,318,304,350,400,79,120.3,95.1,351,145,301,121],[110,110,93,110,175,105,245,62,95,123,123,180,180,180,205,215,230,66,52,65,97,150,150,245,175,66,91,113,264,175,335,109],[3.9,3.9,3.85,3.08,3.15,2.76,3.21,3.69,3.92,3.92,3.92,3.07,3.07,3.07,2.93,3,3.23,4.08,4.93,4.22,3.7,2.76,3.15,3.73,3.08,4.08,4.43,3.77,4.22,3.62,3.54,4.11],[2.62,2.875,2.32,3.215,3.44,3.46,3.57,3.19,3.15,3.44,3.44,4.07,3.73,3.78,5.25,5.424,5.345,2.2,1.615,1.835,2.465,3.52,3.435,3.84,3.845,1.935,2.14,1.513,3.17,2.77,3.57,2.78],[16.46,17.02,18.61,19.44,17.02,20.22,15.84,20,22.9,18.3,18.9,17.4,17.6,18,17.98,17.82,17.42,19.47,18.52,19.9,20.01,16.87,17.3,15.41,17.05,18.9,16.7,16.9,14.5,15.5,14.6,18.6],[0,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1],[1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1],[4,4,4,3,3,3,3,4,4,4,4,3,3,3,3,3,3,4,4,4,3,3,3,3,3,4,5,5,5,5,5,4],[4,4,1,1,2,1,4,2,2,4,4,3,3,3,4,4,4,1,2,1,1,2,2,4,2,1,2,2,4,6,8,2]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>mpg<\/th>\n      <th>cyl<\/th>\n      <th>disp<\/th>\n      <th>hp<\/th>\n      <th>drat<\/th>\n      <th>wt<\/th>\n      <th>qsec<\/th>\n      <th>vs<\/th>\n      <th>am<\/th>\n      <th>gear<\/th>\n      <th>carb<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":3,"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5,6,7,8,9,10,11]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[3,10,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<div id="sub-analysis" class="section level2 unnumbered">
+<h2>Sub analysis</h2>
+<blockquote>
+<p>Suspendisse potenti</p>
+</blockquote>
+<p>We can have math formulas inline like this: <span class="math inline">\(E=mc^2\)</span> or make them span an entire line like this:</p>
+<div id="eq1">
+
+</div>
+<p><span class="math display">\[f=\frac{a}{b+c}\]</span></p>
+<p><strong>Create a horizontal line</strong> using <a href="https://commonmark.org/help/">markdown syntax</a>:</p>
+<hr />
+<p>Cras pulvinar ligula ac nisi porttitor, volutpat congue orci tincidunt. Pellentesque non mi congue, porta enim eget, venenatis sem. Integer suscipit vulputate tellus, eget commodo dolor gravida vel. Suspendisse gravida gravida ligula, in interdum sapien molestie ut.</p>
+<div id="yet-another-analysis" class="section level3 unnumbered">
+<h3>Yet another analysis</h3>
+<div class="blue-box">
+<p>In ut vehicula risus.
+Refer to the <a href="#Table1">table</a> above!</p>
+</div>
+<pre class="r"><code>options(scipen=999)  # turn-off scientific notation like 1e+48
+theme_set(theme_bw())  # pre-set the bw theme.
+data(&quot;midwest&quot;, package = &quot;ggplot2&quot;)
+# midwest &lt;- read.csv(&quot;http://goo.gl/G1K41K&quot;)  # bkup data source
+
+# Scatterplot
+gg = ggplot(midwest, aes(x=area, y=poptotal)) + 
+  geom_point(aes(col=state, size=popdensity)) + 
+  geom_smooth(method=&quot;loess&quot;, se=F) + 
+  xlim(c(0, 0.1)) + 
+  ylim(c(0, 500000)) + 
+  labs(subtitle=&quot;Area Vs Population&quot;, 
+       y=&quot;Population&quot;, 
+       x=&quot;Area&quot;, 
+       title=&quot;Scatterplot&quot;, 
+       caption = &quot;Source: midwest&quot;)
+
+plot(gg)</code></pre>
+<pre><code>## `geom_smooth()` using formula &#39;y ~ x&#39;</code></pre>
+<p><img src="/post/Locke1/Locke1_files/figure-html/example%20plot-1.png" width="672" style="display: block; margin: auto;" /></p>
+<p>Remember <a href="#eq1">equation 1</a>!</p>
+</div>
+</div>
+</div>
+<div id="conclusion" class="section level1 unnumbered">
+<h1>Conclusion</h1>
+<div id="box1" class="green-box">
+<p>Wrapping it up!</p>
+</div>
+<div id="box2" class="info-box caution">
+<ul>
+<li><em>Cras tincidunt</em> felis venenatis pretium iaculis<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>.</li>
+<li>Curabitur in <strong>tortor at tellus</strong> fermentum elementum vel quis sem.</li>
+<li>That sums it up!</li>
+</ul>
+</div>
+<div id="box3" class="info-box warning">
+<p>Be careful, be gentle, be brave!
+And remember the above <a href="#box1">box!</a></p>
+</div>
+<div class="info-box tip">
+<p>A tip!</p>
+</div>
+<div class="info-box note">
+<p>A note!</p>
+</div>
+<div class="info-box important">
+<p>I have something <strong>important</strong> to say here!</p>
+</div>
+<div id="box4" class="orange-box">
+<p>An orange box!!!</p>
+</div>
+</div>
+<div id="r-session-info" class="section level1 unnumbered">
+<h1>R session info</h1>
+<pre class="r"><code>xfun::session_info()</code></pre>
+<pre><code>R version 4.0.1 (2020-06-06)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19041)
+
+Locale:
+  LC_COLLATE=English_United Kingdom.1252 
+  LC_CTYPE=English_United Kingdom.1252   
+  LC_MONETARY=English_United Kingdom.1252
+  LC_NUMERIC=C                           
+  LC_TIME=English_United Kingdom.1252    
+
+Package version:
+  assertthat_0.2.1   backports_1.1.8    base64enc_0.1.3    BH_1.72.0.3       
+  blogdown_0.19      bookdown_0.19      callr_3.4.3        cli_2.0.2         
+  colorspace_1.4-1   compiler_4.0.1     crayon_1.3.4       crosstalk_1.1.0.1 
+  desc_1.2.0         digest_0.6.25      dplyr_1.0.0        DT_0.13           
+  ellipsis_0.3.1     evaluate_0.14      fansi_0.4.1        farver_2.0.3      
+  generics_0.0.2     ggplot2_3.3.2      glue_1.4.1         graphics_4.0.1    
+  grDevices_4.0.1    grid_4.0.1         gtable_0.3.0       highr_0.8         
+  htmltools_0.5.0    htmlwidgets_1.5.1  httpuv_1.5.4       isoband_0.2.2     
+  jsonlite_1.6.1     knitr_1.28         labeling_0.3       later_1.1.0.1     
+  lattice_0.20-41    lazyeval_0.2.2     lifecycle_0.2.0    magrittr_1.5      
+  markdown_1.1       MASS_7.3.51.6      Matrix_1.2-18      methods_4.0.1     
+  mgcv_1.8-31        mime_0.9           munsell_0.5.0      nlme_3.1-148      
+  pillar_1.4.4       pkgbuild_1.0.8     pkgconfig_2.0.3    pkgload_1.1.0     
+  praise_1.0.0       prettyunits_1.1.1  processx_3.4.2     promises_1.1.1    
+  ps_1.3.3           purrr_0.3.4        R6_2.4.1           RColorBrewer_1.1.2
+  Rcpp_1.0.4.6       rlang_0.4.6        rmarkdown_2.3      rprojroot_1.3.2   
+  rstudioapi_0.11    scales_1.1.1       servr_0.17         splines_4.0.1     
+  stats_4.0.1        stringi_1.4.6      stringr_1.4.0      testthat_2.3.2    
+  tibble_3.0.1       tidyselect_1.1.0   tinytex_0.24       tools_4.0.1       
+  utf8_1.1.4         utils_4.0.1        vctrs_0.3.1        viridisLite_0.3.0 
+  withr_2.2.0        xfun_0.15          yaml_2.2.1        </code></pre>
+</div>
+<div id="references" class="section level1 unnumbered">
+<h1>References</h1>
+<div id="refs" class="references">
+<div id="ref-article">
+<p>Adams, Peter. 1993. “The Title of the Work.” <em>The Name of the Journal</em> 4 (2): 201–13.</p>
+</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Nullam quis sem nunc<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>In eget eros sit amet leo feugiat consequat<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+</section>
+<section>
+  
+
+
+<hr>
+
+	<p>	If you'd like to hear about my upcoming courses and events, like "How Not to Think Like Sherlock Holmes" or "The yet to be named Philosophy course based on Doctor Who." please sign up to my mailing list and I will very very occasionally send you information about these things.
+    
+  
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	 
+</style>
+<div id="mc_embed_signup">
+<form action="https://lisamcnulty.us17.list-manage.com/subscribe/post?u=72f8a749d2451d77a8f6b6c93&amp;id=81e31af9a4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_72f8a749d2451d77a8f6b6c93_81e31af9a4" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+
+</section>
+
+<section>
+  <footer class="page-footer">
+	
+	
+
+    
+    
+		
+		<hr>
+		<ul class="page-footer-menu">
+		
+		</ul>
+
+  
+
+	<div class="copyright">
+	<p>
+    
+      &copy; 2020
+    Lisa McNulty.
+    All rights reserved.
+    
+  </p>
+</div>
+</footer>
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-166245943-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+</section>
+
+
+</article>
+</div>
+</body>
+</html>
