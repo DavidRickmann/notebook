@@ -1,0 +1,59 @@
+---
+title:  "Locke’s Conduct of the Understanding: A Translation Section Two"
+author: "Lisa McNulty"  
+date: "2020-10-14"
+series:
+- "Translating Locke"
+refs:
+  - "John Locke"
+twitterImg: locke conduct.jpeg
+description: "seventeenth century self-help"
+output:
+  html_document:
+    code_folding: hide
+
+---
+
+
+The project continues! Just a short one today. 
+
+**Section II. Parts. **
+
+<details>
+  <summary>Original Text</summary>
+
+There is, it is visible, great variety in men’s understandings, and their natural constitutions put so wide a difference between some men in this respect, that art and industry would never be able to master; and their natures seem to want a foundation to raise on it that which other men easily attain to. - Amongst men of equal education there is great inequality of parts. And the woods of America as well of the schools of Athens, produce men of several abilities in the same kind.
+</details>
+
+
+It is obvious that intelligence and understanding varies significantly between individuals, and that in some cases, this is because their natural abilities vary. Whatever education is provided and however hard they work, it is not possible to increase the level of natural ability. This isn’t merely due to educational levels, because people of the same educational levels can be of significantly different levels of intelligence and understanding. 
+
+<details>
+  <summary>Original Text</summary>
+
+Though this be so, yet I imagine most men come very short of what they may attain unto in their several degrees by a neglect of their understandings. A few rules of logic are thought sufficient in this case for the highest improvement; whereas I think there are a great many natural defects in the understanding capable of amendment, which are overlooked and wholly neglected. 
+
+</details>
+
+Despite this, however, it would be a mistake to think that a lack of understanding is necessarily due to a low potential ability to understand. Many people come short of their potential because they neglect the development of their understanding. They believe that since they have learnt a few rules of logic, they are able to think clearly and well about any subject they are set to. This is not the case. There are many defects in the way they think which they overlook and therefore neglect to address. 
+
+<details>
+  <summary>Original Text</summary>
+
+And it is easy to perceive that men are guilty of a great many faults in the exercise and improvement of this faculty of mind, which hinder them in their progress and keep them in ignorance and error all their lives. Some of them I shall take notice of, and endeavour to point out proper remedies for in the following discourse. 
+
+</details>
+
+It is clear to see that bad habits of thinking, and the failure to address those bad habits, prevent many people from making intellectual progress that they are naturally capable of, with the result that they remain ignorant and in error for the rest of their lives. The rest of this text is devoted to identifying these bad habits of thinking, and suggesting ways in which they might be avoided and corrected. 
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>Original Text</summary>
+
