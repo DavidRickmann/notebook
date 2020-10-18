@@ -1,0 +1,42 @@
+---
+title: "Defining Your Terms"
+author: "Lisa McNulty"
+date: "2020-10-17"
+series:
+tags: 
+- "Epistemology"
+description: "It’s not like she’s saying that the sun is made of custard."
+twitterImg: custard.jpg
+
+
+---
+
+
+It is sometimes taken as a criticism of philosophy that philosophical questions cannot be answered,  {{% marginnote %}} it might be more accurate to say that they cannot be answered *correctly*.  {{% /marginnote %}} the implication being that if questions cannot be answered there is no point in asking them. (Note: we are talking here about questions which are _impossible_ to answer, rather than questions which are difficult or time consuming to answer). 
+
+But actually, answering the question isn’t the point. _Asking_ the question is the point. This sounds like hokum until you see how the process works, so I’m going to set out a simplified process here.
+
+It occurs to me that [‘Truthful Lies’](/2020/09/07/truthful-lies/), or rather the [Twitter discussion](https://twitter.com/LisaIRMcNulty/status/1296441564659679233) which arose from the idea of truthful lies, is a good way to explain one reason why it can be useful to ask philosophical questions: it helps you to define your terms, and identify your values. 
+
+Let’s firstly take the simplest possible responses to the question ‘did the teacher lie?’ (This is imaginary and illustrative, there is no Mary and Jane in the actual Twitter exchange.) 
+
+> **Jane: ** Yes, obviously the teacher lied. She said a thing that wasn’t true. 
+
+
+> **Mary: **No, obviously the teacher didn’t lie, because it was _basically_ true. 
+
+Neither of these answers is wrong. Neither answer is right. Most importantly though, neither answer is interesting. Here’s how it starts to get interesting: 
+
+
+> **Mary:** Why on earth would you call that a ‘lie’? It’s not like she’s saying that the sun is made of custard or something. She’s being truthful. 
+
+
+> **Jane:** I mean, she’s not being truthful, though, she’s saying something that isn’t true. 
+
+There is a disagreement of some kind here, but it’s not yet clear what kind. What’s not obvious at this point is whether Jane thinks that the teacher has done anything wrong. It might be that whilst she is happy to define ‘lie’ as ‘deliberately false statement’, and therefore to say that the teacher has lied, she _also_ thinks that it’s entirely and obviously fine for the teacher to have lied in that context. It is therefore entirely possible at this point in the conversation for Mary to think she is in an ethical debate against Jane, who in fact _agrees_ with Mary’s moral stance, but wants to be precise about word usage; and for Jane to think that Mary is being weirdly imprecise about word usage and to be blissfully unaware of any moral debate happening at all. 
+
+This is why _‘it depends what you mean by X’_ is such a ubiquitous phrase in philosophical conversation. Mary includes ‘wrongdoing’ in her definition of ‘lying’, but doesn’t want to say that the teacher did anything wrong, and so doesn’t want to say the teacher was lying. Jane doesn’t include ‘wrongdoing’ in her definition of lying in the first place. In this case, once they are able to clarify this to one another, their ‘disagreement’ disappears. So step one in a philosophical conversation is to define your terms, in order to figure out whether you’re having a disagreement simply about the meaning of words.
+
+This isn’t to say that disagreements about the meaning of words are necessarily shallow disagreements, or that revealing a different usage of the same word will result in happy mutual understanding. Frequently the difference in usage actually reflects differences in underlying values, and it is the values, and not the word definitions, that you are arguing about.  One _could_ respond to ‘You are changing the definition of ‘marriage’!’ with ‘I suppose we are slightly, yes, but I’m sure the lexicographers will cope’, but this would be somewhat missing the point. 
+
+However, revealing the fact that you and your conversation partner are using the same terms differently is a crucial step in discovering whether and how your values clash; and whilst this is not the end of the argument, it is at least an actual beginning. 
